@@ -1,0 +1,62 @@
+Warning messages:
+1: package 'Seurat' was built under R version 4.5.3 
+2: package 'SeuratObject' was built under R version 4.5.3 
+3: package 'sp' was built under R version 4.5.3 
+4: package 'ggplot2' was built under R version 4.5.3 
+Started: 2026-08-21 12:47:14 CST
+kBET package version: 0.99.6
+PCA_before | B cells | n=1383 | k=30
+PCA_before | Cycling cells | n=604 | k=30
+PCA_before | Endothelial cells | n=1500 | k=30
+PCA_before | Epithelial cells | n=1500 | k=30
+PCA_before | Fibroblasts | n=1448 | k=30
+PCA_before | Macrophages | n=1500 | k=30
+PCA_before | Mast cells | n=1089 | k=30
+PCA_before | Neutrophils | n=1500 | k=30
+PCA_before | Pericytes | n=1500 | k=30
+PCA_before | Plasma cells | n=1500 | k=30
+PCA_before | pDCs | n=1093 | k=30
+Harmony_existing | B cells | n=1383 | k=30
+Harmony_existing | Cycling cells | n=604 | k=30
+Harmony_existing | Endothelial cells | n=1500 | k=30
+Harmony_existing | Epithelial cells | n=1500 | k=30
+Harmony_existing | Fibroblasts | n=1448 | k=30
+Harmony_existing | Macrophages | n=1500 | k=30
+Harmony_existing | Mast cells | n=1089 | k=30
+Harmony_existing | Neutrophils | n=1500 | k=30
+Harmony_existing | Pericytes | n=1500 | k=30
+Harmony_existing | Plasma cells | n=1500 | k=30
+Harmony_existing | pDCs | n=1093 | k=30
+Harmony_explicit | B cells | n=1383 | k=30
+Harmony_explicit | Cycling cells | n=604 | k=30
+Harmony_explicit | Endothelial cells | n=1500 | k=30
+Harmony_explicit | Epithelial cells | n=1500 | k=30
+Harmony_explicit | Fibroblasts | n=1448 | k=30
+Harmony_explicit | Macrophages | n=1500 | k=30
+Harmony_explicit | Mast cells | n=1089 | k=30
+Harmony_explicit | Neutrophils | n=1500 | k=30
+Harmony_explicit | Pericytes | n=1500 | k=30
+Harmony_explicit | Plasma cells | n=1500 | k=30
+Harmony_explicit | pDCs | n=1093 | k=30
+Warning message:
+`geom_errorbarh()` was deprecated in ggplot2 4.0.0.
+i Please use the `orientation` argument of `geom_errorbar()` instead. 
+`height` was translated to `width`.
+Official kBET overall:
+                        reduction weighted_observed_rejection_rate
+Harmony_existing Harmony_existing                        0.6028386
+Harmony_explicit Harmony_explicit                        0.5708235
+PCA_before             PCA_before                        0.9404630
+                 weighted_expected_rejection_rate
+Harmony_existing                       0.04288592
+Harmony_explicit                       0.04433461
+PCA_before                             0.04540254
+                 median_celltype_observed_rejection_rate celltypes_evaluated
+Harmony_existing                               0.5439450                  11
+Harmony_explicit                               0.5486207                  11
+PCA_before                                     0.9634862                  11
+                 composition_limited_celltypes
+Harmony_existing                             3
+Harmony_explicit                             3
+PCA_before                                   3
+Completed: 2026-08-21 12:48:47 CST

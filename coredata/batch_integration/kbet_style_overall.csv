@@ -1,0 +1,4 @@
+"reduction","weighted_rejection_rate","median_celltype_rejection_rate","celltypes_evaluated","composition_limited_celltypes"
+"Harmony_existing",0.593459013608224,0.544128440366972,11,3
+"Harmony_explicit",0.560988874678198,0.530827586206897,11,3
+"PCA_before",0.933724658296875,0.955779816513762,11,3

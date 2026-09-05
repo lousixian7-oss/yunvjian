@@ -1,0 +1,5 @@
+"rule","observed","passes"
+"ARI >= 0.90",0.951733724198987,TRUE
+"cell mapping accuracy >= 0.95",0.96291401948327,TRUE
+"new cluster cell-type purity >= 0.95",0.963371452774248,TRUE
+"median sample cluster-profile correlation >= 0.95",0.998606877235797,TRUE

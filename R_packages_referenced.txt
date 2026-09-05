@@ -4,6 +4,7 @@ CCA
 CellChat
 ComplexHeatmap
 DALEX
+FNN
 FactoMineR
 GEOquery
 GOplot
@@ -50,6 +51,7 @@ hdWGCNA
 ieugwasr
 igraph
 irGSEA
+kBET
 kernlab
 limma
 magick

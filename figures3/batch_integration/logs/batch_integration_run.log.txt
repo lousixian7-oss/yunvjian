@@ -1,0 +1,127 @@
+Warning messages:
+1: package 'Seurat' was built under R version 4.5.3 
+2: package 'SeuratObject' was built under R version 4.5.3 
+3: package 'sp' was built under R version 4.5.3 
+4: package 'harmony' was built under R version 4.5.3 
+5: package 'Rcpp' was built under R version 4.5.3 
+6: package 'ggplot2' was built under R version 4.5.3 
+Started: 2026-08-21 11:38:57 CST
+Input: G:/1Yunvjian/0a26.7.7singlecell/8.10/yjsl_clean_allGSE.rds
+Output: G:/1Yunvjian/0a26.7.7singlecell/8.10/batch_integration_revision_20260821
+Object: 54492 genes x 118050 cells
+Reductions: pca, harmony, umap
+Warning: The default method for RunUMAP has changed from calling Python UMAP via reticulate to the R-native UWOT using the cosine metric
+To use Python UMAP via reticulate, set umap.method to 'umap-learn' and metric to 'correlation'
+This message will be shown once per session
+11:39:10 UMAP embedding parameters a = 0.9922 b = 1.112
+11:39:10 Read 118050 rows and found 15 numeric columns
+11:39:10 Using Annoy for neighbor search, n_neighbors = 30
+11:39:10 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:39:17 Writing NN index file to temp file C:\Users\32266\AppData\Local\Temp\Rtmp80ZERZ\file2d805de7290d
+11:39:17 Searching Annoy index using 1 thread, search_k = 3000
+11:39:54 Annoy recall = 100%
+11:39:54 Commencing smooth kNN distance calibration using 1 thread with target n_neighbors = 30
+11:40:00 Initializing from normalized Laplacian + noise (using RSpectra)
+11:40:20 Commencing optimization for 200 epochs, with 5122524 positive edges
+11:40:20 Using rng type: pcg
+Using method 'umap'
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:42:01 Optimization finished
+11:42:01 UMAP embedding parameters a = 0.9922 b = 1.112
+11:42:01 Read 118050 rows and found 15 numeric columns
+11:42:01 Using Annoy for neighbor search, n_neighbors = 30
+11:42:01 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:42:08 Writing NN index file to temp file C:\Users\32266\AppData\Local\Temp\Rtmp80ZERZ\file2d80a5b4d5c
+11:42:08 Searching Annoy index using 1 thread, search_k = 3000
+11:42:46 Annoy recall = 100%
+11:42:46 Commencing smooth kNN distance calibration using 1 thread with target n_neighbors = 30
+11:42:52 Initializing from normalized Laplacian + noise (using RSpectra)
+11:43:15 Commencing optimization for 200 epochs, with 5180876 positive edges
+11:43:15 Using rng type: pcg
+Using method 'umap'
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:44:57 Optimization finished
+Transposing data matrix
+Thetas: 2
+Initializing state using k-means centroids initialization
+Initializing centroids
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 1/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 2/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 3/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 4/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony 5/10
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Harmony converged after 5 iterations
+null device 
+          1 
+11:45:46 UMAP embedding parameters a = 0.9922 b = 1.112
+11:45:46 Read 118050 rows and found 15 numeric columns
+11:45:46 Using Annoy for neighbor search, n_neighbors = 30
+11:45:46 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:45:53 Writing NN index file to temp file C:\Users\32266\AppData\Local\Temp\Rtmp80ZERZ\file2d80161b574c
+11:45:53 Searching Annoy index using 1 thread, search_k = 3000
+11:46:31 Annoy recall = 100%
+11:46:31 Commencing smooth kNN distance calibration using 1 thread with target n_neighbors = 30
+11:46:37 Initializing from normalized Laplacian + noise (using RSpectra)
+11:47:08 Commencing optimization for 200 epochs, with 5190800 positive edges
+11:47:08 Using rng type: pcg
+Using method 'umap'
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+11:48:49 Optimization finished
+Overall metrics:
+                        reduction expected_cross cross_dataset_30nn
+Harmony_existing Harmony_existing      0.6372384          0.5032724
+Harmony_explicit Harmony_explicit      0.6372384          0.5093795
+PCA_before             PCA_before      0.6372384          0.2678958
+                 cross_to_expected_ratio    iLISI dataset_silhouette
+Harmony_existing               0.7920278 2.164938        -0.02709995
+Harmony_explicit               0.7974650 2.211713        -0.03392312
+PCA_before                     0.4243015 1.532354         0.04619554
+Completed: 2026-08-21 11:50:21 CST

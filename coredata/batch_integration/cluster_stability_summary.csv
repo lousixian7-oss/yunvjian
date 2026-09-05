@@ -1,0 +1,12 @@
+"metric","value"
+"cells",118050
+"original_cluster_count",17
+"explicit_cluster_count",17
+"adjusted_rand_index",0.951733724198987
+"normalized_mutual_information",0.943464846252234
+"original_to_explicit_overlap_purity",0.963185091063109
+"explicit_to_original_overlap_purity",0.96291401948327
+"cell_mapping_accuracy_after_majority_map",0.96291401948327
+"new_cluster_celltype_purity",0.963371452774248
+"median_sample_cluster_profile_correlation",0.998606877235797
+"median_sample_total_variation_distance",0.0208428905060784

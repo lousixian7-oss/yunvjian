@@ -62,6 +62,8 @@ figures7/MISTy_PD_refinedFib_ECM_full.R,30,stRNA <- readRDS(spatial_file)
 figures7/MISTy_PD_refinedFib_ECM_full.R,33,"weights_df <- read.csv(weights_file, check.names = FALSE, stringsAsFactors = FALSE)"
 figures7/summarize_PD_replication.R,12,"w <- read.csv(fs,check.names=FALSE)"
 figures7/summarize_PD_replication.R,28,obj <- readRDS(target)
+tools/export_core_metadata.R,6,"cat('Reading',nm,'\n');flush.console();o<-readRDS(src)"
+tools/export_bulk_subset.py,4,"df=pd.read_csv(root/'coredata/bulk/development_expression.csv.gz',index_col=0)"
 figure2/preprocessing/GEO数据处理、合并.R,20,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输入数据"")"
 figure2/preprocessing/GEO数据处理、合并.R,25,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输出数据"")"
 figure2/preprocessing/GEO数据处理、合并.R,114,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输入数据"")"
@@ -191,6 +193,9 @@ figure9/PD/1、数据读取/2、三联/空转读取_三联文件.R,6,"load(""牙
 figure9/PD/1、数据读取/2、三联/空转读取_三联文件.R,8,"counts <- Read10X(data.dir = ""counts"")"
 figure9/PD/1、数据读取/2、三联/空转读取_三联文件.R,32,"tissue_df <- read.csv(tissue_file, header = FALSE, row.names = 1)"
 figure9/PD/2、注释/Figure9_three_gene_20260903/redraw_Figure9_BGH.R,9,"e<-new.env();load(file.path(""inputs"",paste0(gr,""_annotation.rda"")),e)"
+figures3/batch_integration/scripts/01_batch_integration_revision.R,54,obj <- readRDS(input_rds)
+figures3/batch_integration/scripts/02_cluster_stability_and_kbet.R,46,obj <- readRDS(input_rds)
+figures3/batch_integration/scripts/03_official_kbet.R,39,obj <- readRDS(input_rds)
 figures8/knockout/虚拟基因敲除(scTenifoldKnk).R,13,"yjsl <- readRDS(""yjsl_clean_allGSE.rds"")"
 figures8/overexpression/OE30.OE.R,18,"setwd(""G:/1Yunvjian/0a26.7.7singlecell/oe/csf2"")"
 figures8/overexpression/OE30.OE.R,20,"yjsl <- readRDS(""yjsl_clean_allGSE.rds"")"

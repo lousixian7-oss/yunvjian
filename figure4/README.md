@@ -1,5 +1,3 @@
-# figure4: Network pharmacology and MR
+# Figure 4 — Network pharmacology and MR
 
-Disease-gene union, Yunvjian target union, three-way intersection, network construction, enrichment. Cytoscape/STRING/BATMAN GUI or download steps are not fully captured by executable code; source scripts retained.
-
-Scripts preserve their original contents and may contain author-specific working directories. Inspect `setwd`, input paths and output paths before execution. The repository is an archive of existing analyses, not a newly rerun end-to-end pipeline. See the root provenance and input-reference manifests.
+The archived scripts cover disease-gene union, Yunvjian target union, intersection, network-data processing, enrichment and MR. Cytoscape network editing and STRING/BATMAN queries/downloads were performed through their graphical interfaces, as confirmed by the author; these are documented manual steps and are not missing analysis scripts. Original scripts retain local path assumptions.

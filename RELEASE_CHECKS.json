@@ -44,7 +44,19 @@
   "files_before_checksum_manifest": 322,
   "total_bytes": 268450280,
   "files_over_100MiB": [],
-  "source_files_in_provenance": 275,
-  "script_files_including_export_helpers": 98,
-  "pipeline_rerun": false
+  "source_files_in_provenance": 310,
+  "script_files_including_export_helpers": 102,
+  "pipeline_rerun": false,
+  "kbet_recovery": {
+    "source": "Original analysis folder recovered from G-drive Recycle Bin",
+    "official_script_matches_historical_final_patch": true,
+    "analysis_rerun": false,
+    "official_weighted_rejection_rates": {
+      "PCA_before": 0.940462987725263,
+      "Harmony_existing": 0.602838561638418,
+      "Harmony_explicit": 0.570823546322415
+    }
+  },
+  "current_file_count": 362,
+  "current_total_bytes": 272163839
 }

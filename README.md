@@ -16,6 +16,6 @@ Core data include compressed expression matrices, sample annotations, cell metad
 
 ## Reproducibility status
 
-This release organizes existing scripts and saved results; it does not claim that all analyses have been rerun in a clean environment. The final three-gene model is AGT/CXCR4/FOS. Historical alternative models and exploratory screening must not be interpreted as independent confirmatory selection. GUI-based network steps and the separate final global kBET script remain incompletely captured. No workflow code was invented for Figure 1.
+This release organizes existing scripts and saved results; it does not claim that all analyses have been rerun in a clean environment. The final three-gene model is AGT/CXCR4/FOS. Historical alternative models and exploratory screening must not be interpreted as independent confirmatory selection. Figure 1 was created in BioRender. Cytoscape/STRING/BATMAN steps were performed through graphical interfaces; no scripts are required for those manual steps. The final global kBET scripts, logs and result tables have been recovered from the original analysis folder in the Recycle Bin and are archived under figures3 and coredata/batch_integration; see figures3/README.md for run order and provenance.
 
 See `RELEASE_CHECKS.json` for file counts, data dimensions, checksums and remaining gaps. No software license is asserted for third-party code or upstream datasets; their original terms remain applicable.
