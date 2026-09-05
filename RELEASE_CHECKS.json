@@ -43,5 +43,8 @@
   "document_visual_QA": "17 pages rendered via Word PDF; contact sheets and Data Availability inspected",
   "files_before_checksum_manifest": 322,
   "total_bytes": 268450280,
-  "files_over_100MiB": []
+  "files_over_100MiB": [],
+  "source_files_in_provenance": 275,
+  "script_files_including_export_helpers": 98,
+  "pipeline_rerun": false
 }
