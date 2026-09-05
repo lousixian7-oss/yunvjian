@@ -1,0 +1,4 @@
+"Cohort","Label","P_value","Method","y"
+"Training","***  P<0.001",8.31301835444377e-09,"paired patient-level Wilcoxon; n=47 pairs",1.025
+"Internal test","***  P<0.001",0.000235745358564439,"paired patient-level Wilcoxon; n=20 pairs",1.025
+"GSE16134","***  P<0.001",2.42917377896024e-12,"paired patient-level Wilcoxon; n=69 pairs",1.025

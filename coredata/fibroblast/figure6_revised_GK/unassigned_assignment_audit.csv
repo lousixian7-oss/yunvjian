@@ -1,0 +1,14 @@
+"metric","value"
+"30NN_all_votes_ECM_Fib",2371
+"30NN_all_votes_Activated_Fib",1220
+"30NN_all_votes_Adventitial_Fib",277
+"30NN_all_votes_PI16_Fib",92
+"30NN_cell_majority_ECM_Fib",93
+"30NN_cell_majority_Activated_Fib",33
+"30NN_cell_majority_Adventitial_Fib",5
+"30NN_cell_majority_PI16_Fib",1
+"centroid_distance_ECM_Fib",13.892392270158
+"centroid_distance_Activated_Fib",14.8490262176497
+"centroid_distance_Adventitial_Fib",15.2944971299356
+"centroid_distance_Inflammatory_Fib",17.018951712924
+"centroid_distance_PI16_Fib",17.6820297764849

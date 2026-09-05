@@ -1,0 +1,17 @@
+"a","b","ARI"
+"fibro_harmony_snn_res.0.2","fibro_harmony_snn_res.0.2",1
+"fibro_harmony_snn_res.0.2","fibro_harmony_snn_res.0.3",0.792711378486341
+"fibro_harmony_snn_res.0.2","fibro_harmony_snn_res.0.4",0.518126161762734
+"fibro_harmony_snn_res.0.2","fibro_harmony_snn_res.0.5",0.449772877132437
+"fibro_harmony_snn_res.0.3","fibro_harmony_snn_res.0.2",0.792711378486341
+"fibro_harmony_snn_res.0.3","fibro_harmony_snn_res.0.3",1
+"fibro_harmony_snn_res.0.3","fibro_harmony_snn_res.0.4",0.631308616323695
+"fibro_harmony_snn_res.0.3","fibro_harmony_snn_res.0.5",0.542770208135961
+"fibro_harmony_snn_res.0.4","fibro_harmony_snn_res.0.2",0.518126161762734
+"fibro_harmony_snn_res.0.4","fibro_harmony_snn_res.0.3",0.631308616323695
+"fibro_harmony_snn_res.0.4","fibro_harmony_snn_res.0.4",1
+"fibro_harmony_snn_res.0.4","fibro_harmony_snn_res.0.5",0.834496186068487
+"fibro_harmony_snn_res.0.5","fibro_harmony_snn_res.0.2",0.449772877132437
+"fibro_harmony_snn_res.0.5","fibro_harmony_snn_res.0.3",0.542770208135961
+"fibro_harmony_snn_res.0.5","fibro_harmony_snn_res.0.4",0.834496186068487
+"fibro_harmony_snn_res.0.5","fibro_harmony_snn_res.0.5",1

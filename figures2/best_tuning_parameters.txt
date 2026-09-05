@@ -1,0 +1,32 @@
+$RF
+  mtry
+1    2
+
+$SVM
+       sigma   C
+2 0.01554376 0.5
+
+$GLM
+  parameter
+1      none
+
+$GBM
+  n.trees interaction.depth shrinkage n.minobsinnode
+4      50                 2       0.1             10
+
+$KNN
+  k
+2 7
+
+$NNET
+  size decay
+8    5 1e-04
+
+$LASSO
+  alpha    lambda
+6  0.55 0.0658314
+
+$DT
+          cp
+2 0.09615385
+

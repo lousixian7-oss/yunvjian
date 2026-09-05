@@ -1,0 +1,4 @@
+"Gene","P_value","Method","Label","y"
+"AGT",0.00024568348501502,"paired patient-level Wilcoxon; n=47 pairs","***  P<0.001",6.52730878296705
+"CXCR4",7.40617952274275e-08,"paired patient-level Wilcoxon; n=47 pairs","***  P<0.001",10.8560988867867
+"FOS",1.15292543354374e-05,"paired patient-level Wilcoxon; n=47 pairs","***  P<0.001",12.2305318784936

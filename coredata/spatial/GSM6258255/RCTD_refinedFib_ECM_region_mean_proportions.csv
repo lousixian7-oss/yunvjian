@@ -1,0 +1,81 @@
+"Region","Celltype","Mean_proportion"
+"Basal epithelium","Activated_Fib",0.00409471271259297
+"Basal epithelium","Adventitial_Fib",0.000860949526269315
+"Basal epithelium","B cells",0
+"Basal epithelium","Cycling cells",0.0126748297085945
+"Basal epithelium","ECM_Fib",0.0130528118581776
+"Basal epithelium","Endothelial cells",0.0011388789395385
+"Basal epithelium","Epithelial cells",0.966285219218077
+"Basal epithelium","Inflammatory_Fib",0
+"Basal epithelium","Macrophages",0.000242046998822475
+"Basal epithelium","Mast cells",0.00122478540250354
+"Basal epithelium","Neutrophils",0
+"Basal epithelium","PI16_Fib",0.000267934113886772
+"Basal epithelium","Pericytes",0
+"Basal epithelium","Plasma cells",0
+"Basal epithelium","T cells",0.000157831521537834
+"Basal epithelium","pDCs",0
+"Immune stroma","Activated_Fib",0.0053373908688353
+"Immune stroma","Adventitial_Fib",0.0198786258569722
+"Immune stroma","B cells",0.00440219121278119
+"Immune stroma","Cycling cells",0.171228689550901
+"Immune stroma","ECM_Fib",0.126133620590099
+"Immune stroma","Endothelial cells",0
+"Immune stroma","Epithelial cells",0.56928000757428
+"Immune stroma","Inflammatory_Fib",0.017159839236648
+"Immune stroma","Macrophages",0.00186700968668786
+"Immune stroma","Mast cells",0
+"Immune stroma","Neutrophils",0
+"Immune stroma","PI16_Fib",0
+"Immune stroma","Pericytes",0.0086155676778688
+"Immune stroma","Plasma cells",0.069767943820875
+"Immune stroma","T cells",0
+"Immune stroma","pDCs",0
+"Inflamed epithelium","Activated_Fib",0.00142678486810223
+"Inflamed epithelium","Adventitial_Fib",0
+"Inflamed epithelium","B cells",0
+"Inflamed epithelium","Cycling cells",0.00813819547129117
+"Inflamed epithelium","ECM_Fib",0.00197133506985445
+"Inflamed epithelium","Endothelial cells",0
+"Inflamed epithelium","Epithelial cells",0.983861161914803
+"Inflamed epithelium","Inflammatory_Fib",0.00139616616195143
+"Inflamed epithelium","Macrophages",0.00124751977478229
+"Inflamed epithelium","Mast cells",0
+"Inflamed epithelium","Neutrophils",0
+"Inflamed epithelium","PI16_Fib",0
+"Inflamed epithelium","Pericytes",0
+"Inflamed epithelium","Plasma cells",0.000541096527737496
+"Inflamed epithelium","T cells",0.00141774021147775
+"Inflamed epithelium","pDCs",0
+"Reticular stroma","Activated_Fib",0.000603444057019793
+"Reticular stroma","Adventitial_Fib",0.0203789870614007
+"Reticular stroma","B cells",0
+"Reticular stroma","Cycling cells",0.0128751244786181
+"Reticular stroma","ECM_Fib",0.309460279742622
+"Reticular stroma","Endothelial cells",0.00802215852165816
+"Reticular stroma","Epithelial cells",0.631118619028747
+"Reticular stroma","Inflammatory_Fib",0.000970267981341965
+"Reticular stroma","Macrophages",0
+"Reticular stroma","Mast cells",0
+"Reticular stroma","Neutrophils",0
+"Reticular stroma","PI16_Fib",0
+"Reticular stroma","Pericytes",0.0165711191285919
+"Reticular stroma","Plasma cells",0
+"Reticular stroma","T cells",0
+"Reticular stroma","pDCs",0
+"Suprabasal epithelial","Activated_Fib",0
+"Suprabasal epithelial","Adventitial_Fib",0
+"Suprabasal epithelial","B cells",0
+"Suprabasal epithelial","Cycling cells",0
+"Suprabasal epithelial","ECM_Fib",0
+"Suprabasal epithelial","Endothelial cells",0
+"Suprabasal epithelial","Epithelial cells",0.999814237084805
+"Suprabasal epithelial","Inflammatory_Fib",0
+"Suprabasal epithelial","Macrophages",0
+"Suprabasal epithelial","Mast cells",0
+"Suprabasal epithelial","Neutrophils",0
+"Suprabasal epithelial","PI16_Fib",0
+"Suprabasal epithelial","Pericytes",0
+"Suprabasal epithelial","Plasma cells",0.000185762915194734
+"Suprabasal epithelial","T cells",0
+"Suprabasal epithelial","pDCs",0

@@ -1,0 +1,2 @@
+"sample","n_spots","median_nearest_distance","mean_neighbors_50","isolated_fraction_50","note"
+"GSM6258257",160,41.6773319683494,5.35,0,"Distances use original image-centroid coordinates; spots are not biological replicates"

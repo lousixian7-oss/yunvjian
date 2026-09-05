@@ -1,0 +1,4 @@
+analysis_stage,association,cramers_v,interpretation
+Original Figure 6 annotation,dataset x original fibroblast state,0.874,Strong dataset dependence
+Reclustered preliminary fixed-program state,dataset x preliminary fixed-program state,0.252,Markedly reduced dataset dependence before final cluster consolidation
+Final manuscript state,dataset x final fibroblast state,0.341,Residual moderate dataset association retained and disclosed

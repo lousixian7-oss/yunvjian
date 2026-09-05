@@ -1,0 +1,11 @@
+"group","state","mean_fraction","n_samples"
+"NC","Inflammatory_Fib",0.21147375099959,16
+"NC","Activated_Fib",0.163466495683806,16
+"NC","ECM_Fib",0.348756181033633,16
+"NC","Adventitial_Fib",0.107475889020355,16
+"NC","PI16_Fib",0.168827683262616,16
+"PD","Inflammatory_Fib",0.0222718735653503,12
+"PD","Activated_Fib",0.586466941152382,12
+"PD","ECM_Fib",0.325805771291919,12
+"PD","Adventitial_Fib",0.0272833227063627,12
+"PD","PI16_Fib",0.0381720912839861,12

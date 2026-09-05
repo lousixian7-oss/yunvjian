@@ -1,0 +1,721 @@
+"Threshold","Cohort","Strategy","NetBenefit","id"
+0.01,"Training","Three-gene model",0.992973210364515,1
+0.02,"Training","Three-gene model",0.973084886128365,2
+0.03,"Training","Three-gene model",0.968474525623786,3
+0.04,"Training","Three-gene model",0.963768115942029,4
+0.05,"Training","Three-gene model",0.959572845156369,5
+0.06,"Training","Three-gene model",0.955905026210299,6
+0.07,"Training","Three-gene model",0.952781673679289,7
+0.08,"Training","Three-gene model",0.948960302457467,8
+0.09,"Training","Three-gene model",0.94824016563147,9
+0.1,"Training","Three-gene model",0.943639291465379,10
+0.11,"Training","Three-gene model",0.940726266080443,11
+0.12,"Training","Three-gene model",0.936100131752306,12
+0.13,"Training","Three-gene model",0.931367649508579,13
+0.14,"Training","Three-gene model",0.931243680485339,14
+0.15,"Training","Three-gene model",0.926683716965047,15
+0.16,"Training","Three-gene model",0.924775707384403,16
+0.17,"Training","Three-gene model",0.920202549327746,17
+0.18,"Training","Three-gene model",0.915517850830682,18
+0.19,"Training","Three-gene model",0.91071748076579,19
+0.2,"Training","Three-gene model",0.905797101449275,20
+0.21,"Training","Three-gene model",0.900752155567786,21
+0.22,"Training","Three-gene model",0.899665551839465,22
+0.23,"Training","Three-gene model",0.888763410502541,23
+0.24,"Training","Three-gene model",0.888634630053394,24
+0.25,"Training","Three-gene model",0.888888888888889,25
+0.26,"Training","Three-gene model",0.884449667058363,26
+0.27,"Training","Three-gene model",0.879888822711932,27
+0.28,"Training","Three-gene model",0.875201288244767,28
+0.29,"Training","Three-gene model",0.870381710553174,29
+0.3,"Training","Three-gene model",0.865424430641822,30
+0.31,"Training","Three-gene model",0.860323461457677,31
+0.32,"Training","Three-gene model",0.855072463768116,32
+0.33,"Training","Three-gene model",0.849664719878867,33
+0.34,"Training","Three-gene model",0.859025032938077,34
+0.35,"Training","Three-gene model",0.853957636566332,35
+0.36,"Training","Three-gene model",0.848731884057971,36
+0.37,"Training","Three-gene model",0.843340234644583,37
+0.38,"Training","Three-gene model",0.837774661056569,38
+0.39,"Training","Three-gene model",0.817533856022808,39
+0.4,"Training","Three-gene model",0.811594202898551,40
+0.41,"Training","Three-gene model",0.80545320560059,41
+0.42,"Training","Three-gene model",0.799100449775113,42
+0.43,"Training","Three-gene model",0.803457920162726,43
+0.44,"Training","Three-gene model",0.797101449275362,44
+0.45,"Training","Three-gene model",0.790513833992095,45
+0.46,"Training","Three-gene model",0.783682232957595,46
+0.47,"Training","Three-gene model",0.776592835657643,47
+0.48,"Training","Three-gene model",0.754738015607581,48
+0.49,"Training","Three-gene model",0.761011651037226,49
+0.5,"Training","Three-gene model",0.768115942028986,50
+0.51,"Training","Three-gene model",0.761017450458444,51
+0.52,"Training","Three-gene model",0.753623188405797,52
+0.53,"Training","Three-gene model",0.764107308048104,53
+0.54,"Training","Three-gene model",0.774417139256459,54
+0.55,"Training","Three-gene model",0.768115942028986,55
+0.56,"Training","Three-gene model",0.732542819499341,56
+0.57,"Training","Three-gene model",0.725648803505224,57
+0.58,"Training","Three-gene model",0.68944099378882,58
+0.59,"Training","Three-gene model",0.667373630258042,59
+0.6,"Training","Three-gene model",0.659420289855073,60
+0.61,"Training","Three-gene model",0.651059085841695,61
+0.62,"Training","Three-gene model",0.642257818459191,62
+0.63,"Training","Three-gene model",0.63298080689385,63
+0.64,"Training","Three-gene model",0.648953301127214,64
+0.65,"Training","Three-gene model",0.625258799171843,65
+0.66,"Training","Three-gene model",0.615515771526002,66
+0.67,"Training","Three-gene model",0.590689503732982,67
+0.68,"Training","Three-gene model",0.550724637681159,68
+0.69,"Training","Three-gene model",0.524544179523142,69
+0.7,"Training","Three-gene model",0.454106280193237,70
+0.71,"Training","Three-gene model",0.426286856571714,71
+0.72,"Training","Three-gene model",0.368530020703934,72
+0.73,"Training","Three-gene model",0.353193773483629,73
+0.74,"Training","Three-gene model",0.377926421404682,74
+0.75,"Training","Three-gene model",0.347826086956522,75
+0.76,"Training","Three-gene model",0.301932367149758,76
+0.77,"Training","Three-gene model",0.269061121613106,77
+0.78,"Training","Three-gene model",0.300395256916996,78
+0.79,"Training","Three-gene model",0.281573498964803,79
+0.8,"Training","Three-gene model",0.231884057971014,80
+0.01,"Internal test","Three-gene model",0.992929292929293,81
+0.02,"Internal test","Three-gene model",0.987074829931973,82
+0.03,"Internal test","Three-gene model",0.982474226804124,83
+0.04,"Internal test","Three-gene model",0.976388888888889,84
+0.05,"Internal test","Three-gene model",0.971929824561403,85
+0.06,"Internal test","Three-gene model",0.965957446808511,86
+0.07,"Internal test","Three-gene model",0.959856630824373,87
+0.08,"Internal test","Three-gene model",0.96231884057971,88
+0.09,"Internal test","Three-gene model",0.957142857142857,89
+0.1,"Internal test","Three-gene model",0.955555555555555,90
+0.11,"Internal test","Three-gene model",0.950561797752809,91
+0.12,"Internal test","Three-gene model",0.95,92
+0.13,"Internal test","Three-gene model",0.945210727969349,93
+0.14,"Internal test","Three-gene model",0.945736434108527,94
+0.15,"Internal test","Three-gene model",0.941176470588235,95
+0.16,"Internal test","Three-gene model",0.936507936507937,96
+0.17,"Internal test","Three-gene model",0.93855421686747,97
+0.18,"Internal test","Three-gene model",0.934146341463415,98
+0.19,"Internal test","Three-gene model",0.945267489711934,99
+0.2,"Internal test","Three-gene model",0.941666666666667,100
+0.21,"Internal test","Three-gene model",0.937974683544304,101
+0.22,"Internal test","Three-gene model",0.934188034188034,102
+0.23,"Internal test","Three-gene model",0.93030303030303,103
+0.24,"Internal test","Three-gene model",0.892982456140351,104
+0.25,"Internal test","Three-gene model",0.888888888888889,105
+0.26,"Internal test","Three-gene model",0.884684684684685,106
+0.27,"Internal test","Three-gene model",0.880365296803653,107
+0.28,"Internal test","Three-gene model",0.888888888888889,108
+0.29,"Internal test","Three-gene model",0.884976525821596,109
+0.3,"Internal test","Three-gene model",0.847619047619048,110
+0.31,"Internal test","Three-gene model",0.843478260869565,111
+0.32,"Internal test","Three-gene model",0.83921568627451,112
+0.33,"Internal test","Three-gene model",0.801492537313433,113
+0.34,"Internal test","Three-gene model",0.796969696969697,114
+0.35,"Internal test","Three-gene model",0.792307692307692,115
+0.36,"Internal test","Three-gene model",0.7875,116
+0.37,"Internal test","Three-gene model",0.782539682539683,117
+0.38,"Internal test","Three-gene model",0.797849462365592,118
+0.39,"Internal test","Three-gene model",0.79344262295082,119
+0.4,"Internal test","Three-gene model",0.755555555555556,120
+0.41,"Internal test","Three-gene model",0.750847457627119,121
+0.42,"Internal test","Three-gene model",0.745977011494253,122
+0.43,"Internal test","Three-gene model",0.74093567251462,123
+0.44,"Internal test","Three-gene model",0.735714285714286,124
+0.45,"Internal test","Three-gene model",0.73030303030303,125
+0.46,"Internal test","Three-gene model",0.724691358024691,126
+0.47,"Internal test","Three-gene model",0.652201257861635,127
+0.48,"Internal test","Three-gene model",0.646153846153846,128
+0.49,"Internal test","Three-gene model",0.639869281045752,129
+0.5,"Internal test","Three-gene model",0.633333333333333,130
+0.51,"Internal test","Three-gene model",0.593197278911565,131
+0.52,"Internal test","Three-gene model",0.552777777777778,132
+0.53,"Internal test","Three-gene model",0.545390070921986,133
+0.54,"Internal test","Three-gene model",0.53768115942029,134
+0.55,"Internal test","Three-gene model",0.52962962962963,135
+0.56,"Internal test","Three-gene model",0.521212121212121,136
+0.57,"Internal test","Three-gene model",0.512403100775194,137
+0.58,"Internal test","Three-gene model",0.503174603174603,138
+0.59,"Internal test","Three-gene model",0.49349593495935,139
+0.6,"Internal test","Three-gene model",0.483333333333333,140
+0.61,"Internal test","Three-gene model",0.439316239316239,141
+0.62,"Internal test","Three-gene model",0.482456140350877,142
+0.63,"Internal test","Three-gene model",0.52972972972973,143
+0.64,"Internal test","Three-gene model",0.522222222222222,144
+0.65,"Internal test","Three-gene model",0.514285714285714,145
+0.66,"Internal test","Three-gene model",0.505882352941176,146
+0.67,"Internal test","Three-gene model",0.463636363636364,147
+0.68,"Internal test","Three-gene model",0.454166666666667,148
+0.69,"Internal test","Three-gene model",0.444086021505376,149
+0.7,"Internal test","Three-gene model",0.433333333333333,150
+0.71,"Internal test","Three-gene model",0.42183908045977,151
+0.72,"Internal test","Three-gene model",0.495238095238095,152
+0.73,"Internal test","Three-gene model",0.48641975308642,153
+0.74,"Internal test","Three-gene model",0.443589743589744,154
+0.75,"Internal test","Three-gene model",0.433333333333333,155
+0.76,"Internal test","Three-gene model",0.422222222222222,156
+0.77,"Internal test","Three-gene model",0.410144927536232,157
+0.78,"Internal test","Three-gene model",0.396969696969697,158
+0.79,"Internal test","Three-gene model",0.349206349206349,159
+0.8,"Internal test","Three-gene model",0.333333333333333,160
+0.01,"GSE16134","Three-gene model",0.997359486986043,161
+0.02,"GSE16134","Three-gene model",0.991362520111779,162
+0.03,"GSE16134","Three-gene model",0.989305727852162,163
+0.04,"GSE16134","Three-gene model",0.98789764868603,164
+0.05,"GSE16134","Three-gene model",0.986023149159205,165
+0.06,"GSE16134","Three-gene model",0.984991612960184,166
+0.07,"GSE16134","Three-gene model",0.983357872663187,167
+0.08,"GSE16134","Three-gene model",0.981418004690601,168
+0.09,"GSE16134","Three-gene model",0.975696502667457,169
+0.1,"GSE16134","Three-gene model",0.974181650530198,170
+0.11,"GSE16134","Three-gene model",0.969602312462119,171
+0.12,"GSE16134","Three-gene model",0.968313843832516,172
+0.13,"GSE16134","Three-gene model",0.96647112128583,173
+0.14,"GSE16134","Three-gene model",0.965936504873106,174
+0.15,"GSE16134","Three-gene model",0.967049060288015,175
+0.16,"GSE16134","Three-gene model",0.965421853388658,176
+0.17,"GSE16134","Three-gene model",0.962155676648503,177
+0.18,"GSE16134","Three-gene model",0.960631515028843,178
+0.19,"GSE16134","Three-gene model",0.961016341375954,179
+0.2,"GSE16134","Three-gene model",0.95954356846473,180
+0.21,"GSE16134","Three-gene model",0.958033510163349,181
+0.22,"GSE16134","Three-gene model",0.958825406958187,182
+0.23,"GSE16134","Three-gene model",0.953225198038476,183
+0.24,"GSE16134","Three-gene model",0.950207468879668,184
+0.25,"GSE16134","Three-gene model",0.948824343015214,185
+0.26,"GSE16134","Three-gene model",0.943254457777279,186
+0.27,"GSE16134","Three-gene model",0.9433297334167,187
+0.28,"GSE16134","Three-gene model",0.939372982941448,188
+0.29,"GSE16134","Three-gene model",0.929694348664602,189
+0.3,"GSE16134","Three-gene model",0.924125666864256,190
+0.31,"GSE16134","Three-gene model",0.918515845811534,191
+0.32,"GSE16134","Three-gene model",0.91701244813278,192
+0.33,"GSE16134","Three-gene model",0.915464172911377,193
+0.34,"GSE16134","Three-gene model",0.907707783226455,194
+0.35,"GSE16134","Three-gene model",0.902010852218321,195
+0.36,"GSE16134","Three-gene model",0.896265560165975,196
+0.37,"GSE16134","Three-gene model",0.894618981755911,197
+0.38,"GSE16134","Three-gene model",0.892919287913265,198
+0.39,"GSE16134","Three-gene model",0.893816747160057,199
+0.4,"GSE16134","Three-gene model",0.887966804979253,200
+0.41,"GSE16134","Three-gene model",0.877909838947887,201
+0.42,"GSE16134","Three-gene model",0.876091000143082,202
+0.43,"GSE16134","Three-gene model",0.865909587246124,203
+0.44,"GSE16134","Three-gene model",0.85981031416716,204
+0.45,"GSE16134","Three-gene model",0.849490758204451,205
+0.46,"GSE16134","Three-gene model",0.846780390348855,206
+0.47,"GSE16134","Three-gene model",0.844750645893682,207
+0.48,"GSE16134","Three-gene model",0.838493456750718,208
+0.49,"GSE16134","Three-gene model",0.831990887641364,209
+0.5,"GSE16134","Three-gene model",0.825726141078838,210
+0.51,"GSE16134","Three-gene model",0.823524430519096,211
+0.52,"GSE16134","Three-gene model",0.817081604426003,212
+0.53,"GSE16134","Three-gene model",0.819369647744328,213
+0.54,"GSE16134","Three-gene model",0.79631968248241,214
+0.55,"GSE16134","Three-gene model",0.787459658828953,215
+0.56,"GSE16134","Three-gene model",0.782346284420973,216
+0.57,"GSE16134","Three-gene model",0.763774968638425,217
+0.58,"GSE16134","Three-gene model",0.761707172495554,218
+0.59,"GSE16134","Three-gene model",0.755389130654792,219
+0.6,"GSE16134","Three-gene model",0.74896265560166,220
+0.61,"GSE16134","Three-gene model",0.73827002872646,221
+0.62,"GSE16134","Three-gene model",0.73160078619786,222
+0.63,"GSE16134","Three-gene model",0.724795334753841,223
+0.64,"GSE16134","Three-gene model",0.717842323651452,224
+0.65,"GSE16134","Three-gene model",0.713692946058091,225
+0.66,"GSE16134","Three-gene model",0.711252135709055,226
+0.67,"GSE16134","Three-gene model",0.700364642273356,227
+0.68,"GSE16134","Three-gene model",0.697614107883817,228
+0.69,"GSE16134","Three-gene model",0.686387364475974,229
+0.7,"GSE16134","Three-gene model",0.67911479944675,230
+0.71,"GSE16134","Three-gene model",0.671626842180569,231
+0.72,"GSE16134","Three-gene model",0.647302904564315,232
+0.73,"GSE16134","Three-gene model",0.631012755494083,233
+0.74,"GSE16134","Three-gene model",0.610277689115863,234
+0.75,"GSE16134","Three-gene model",0.618257261410788,235
+0.76,"GSE16134","Three-gene model",0.597510373443983,236
+0.77,"GSE16134","Three-gene model",0.584701425220999,237
+0.78,"GSE16134","Three-gene model",0.563183704262542,238
+0.79,"GSE16134","Three-gene model",0.569255087927287,239
+0.8,"GSE16134","Three-gene model",0.547717842323651,240
+0.01,"Training","Treat all",0.992534036012297,1
+0.02,"Training","Treat all",0.9849157054126,2
+0.03,"Training","Treat all",0.977140295831466,3
+0.04,"Training","Treat all",0.969202898550725,4
+0.05,"Training","Treat all",0.961098398169336,5
+0.06,"Training","Treat all",0.952821461609621,6
+0.07,"Training","Treat all",0.944366526414212,7
+0.08,"Training","Treat all",0.935727788279773,8
+0.09,"Training","Treat all",0.926899187768753,9
+0.1,"Training","Treat all",0.917874396135266,10
+0.11,"Training","Treat all",0.908646800195408,11
+0.12,"Training","Treat all",0.899209486166008,12
+0.13,"Training","Treat all",0.889555222388806,13
+0.14,"Training","Treat all",0.879676440849343,14
+0.15,"Training","Treat all",0.869565217391304,15
+0.16,"Training","Treat all",0.859213250517598,16
+0.17,"Training","Treat all",0.848611838658984,17
+0.18,"Training","Treat all",0.837751855779427,18
+0.19,"Training","Treat all",0.82662372517445,19
+0.2,"Training","Treat all",0.815217391304348,20
+0.21,"Training","Treat all",0.803522289488167,21
+0.22,"Training","Treat all",0.791527313266444,22
+0.23,"Training","Treat all",0.779220779220779,23
+0.24,"Training","Treat all",0.766590389016018,24
+0.25,"Training","Treat all",0.753623188405797,25
+0.26,"Training","Treat all",0.740305522914218,26
+0.27,"Training","Treat all",0.726622989874925,27
+0.28,"Training","Treat all",0.71256038647343,28
+0.29,"Training","Treat all",0.698101653398653,29
+0.3,"Training","Treat all",0.683229813664596,30
+0.31,"Training","Treat all",0.667926906112161,31
+0.32,"Training","Treat all",0.652173913043478,32
+0.33,"Training","Treat all",0.63595068137573,33
+0.34,"Training","Treat all",0.619235836627141,34
+0.35,"Training","Treat all",0.602006688963211,35
+0.36,"Training","Treat all",0.584239130434782,36
+0.37,"Training","Treat all",0.565907522429262,37
+0.38,"Training","Treat all",0.546984572230014,38
+0.39,"Training","Treat all",0.52744119743407,39
+0.4,"Training","Treat all",0.507246376811594,40
+0.41,"Training","Treat all",0.486366985998526,41
+0.42,"Training","Treat all",0.464767616191904,42
+0.43,"Training","Treat all",0.442410373760488,43
+0.44,"Training","Treat all",0.419254658385093,44
+0.45,"Training","Treat all",0.395256916996047,45
+0.46,"Training","Treat all",0.37037037037037,46
+0.47,"Training","Treat all",0.344544708777687,47
+0.48,"Training","Treat all",0.317725752508361,48
+0.49,"Training","Treat all",0.289855072463768,49
+0.5,"Training","Treat all",0.260869565217391,50
+0.51,"Training","Treat all",0.230700976042591,51
+0.52,"Training","Treat all",0.19927536231884,52
+0.53,"Training","Treat all",0.166512488436633,53
+0.54,"Training","Treat all",0.132325141776937,54
+0.55,"Training","Treat all",0.0966183574879224,55
+0.56,"Training","Treat all",0.0592885375494067,56
+0.57,"Training","Treat all",0.0202224469160765,57
+0.58,"Training","Treat all",-0.0207039337474125,58
+0.59,"Training","Treat all",-0.063626723223754,59
+0.6,"Training","Treat all",-0.108695652173913,60
+0.61,"Training","Treat all",-0.156075808249722,61
+0.62,"Training","Treat all",-0.205949656750572,62
+0.63,"Training","Treat all",-0.258519388954172,63
+0.64,"Training","Treat all",-0.314009661835749,64
+0.65,"Training","Treat all",-0.372670807453417,65
+0.66,"Training","Treat all",-0.434782608695653,66
+0.67,"Training","Treat all",-0.500658761528327,67
+0.68,"Training","Treat all",-0.570652173913044,68
+0.69,"Training","Treat all",-0.645161290322582,69
+0.7,"Training","Treat all",-0.724637681159421,70
+0.71,"Training","Treat all",-0.809595202398802,71
+0.72,"Training","Treat all",-0.900621118012422,72
+0.73,"Training","Treat all",-0.998389694041868,73
+0.74,"Training","Treat all",-1.10367892976589,74
+0.75,"Training","Treat all",-1.21739130434783,75
+0.76,"Training","Treat all",-1.34057971014493,76
+0.77,"Training","Treat all",-1.47448015122873,77
+0.78,"Training","Treat all",-1.6205533596838,78
+0.79,"Training","Treat all",-1.78053830227743,79
+0.8,"Training","Treat all",-1.95652173913044,80
+0.01,"Internal test","Treat all",0.992592592592593,81
+0.02,"Internal test","Treat all",0.985034013605442,82
+0.03,"Internal test","Treat all",0.977319587628866,83
+0.04,"Internal test","Treat all",0.969444444444444,84
+0.05,"Internal test","Treat all",0.96140350877193,85
+0.06,"Internal test","Treat all",0.953191489361702,86
+0.07,"Internal test","Treat all",0.944802867383512,87
+0.08,"Internal test","Treat all",0.936231884057971,88
+0.09,"Internal test","Treat all",0.927472527472527,89
+0.1,"Internal test","Treat all",0.918518518518518,90
+0.11,"Internal test","Treat all",0.90936329588015,91
+0.12,"Internal test","Treat all",0.9,92
+0.13,"Internal test","Treat all",0.890421455938697,93
+0.14,"Internal test","Treat all",0.88062015503876,94
+0.15,"Internal test","Treat all",0.870588235294118,95
+0.16,"Internal test","Treat all",0.86031746031746,96
+0.17,"Internal test","Treat all",0.849799196787149,97
+0.18,"Internal test","Treat all",0.839024390243902,98
+0.19,"Internal test","Treat all",0.82798353909465,99
+0.2,"Internal test","Treat all",0.816666666666667,100
+0.21,"Internal test","Treat all",0.80506329113924,101
+0.22,"Internal test","Treat all",0.793162393162393,102
+0.23,"Internal test","Treat all",0.780952380952381,103
+0.24,"Internal test","Treat all",0.768421052631579,104
+0.25,"Internal test","Treat all",0.755555555555555,105
+0.26,"Internal test","Treat all",0.742342342342342,106
+0.27,"Internal test","Treat all",0.728767123287671,107
+0.28,"Internal test","Treat all",0.714814814814815,108
+0.29,"Internal test","Treat all",0.700469483568075,109
+0.3,"Internal test","Treat all",0.685714285714286,110
+0.31,"Internal test","Treat all",0.670531400966183,111
+0.32,"Internal test","Treat all",0.654901960784314,112
+0.33,"Internal test","Treat all",0.638805970149254,113
+0.34,"Internal test","Treat all",0.622222222222222,114
+0.35,"Internal test","Treat all",0.605128205128205,115
+0.36,"Internal test","Treat all",0.5875,116
+0.37,"Internal test","Treat all",0.569312169312169,117
+0.38,"Internal test","Treat all",0.550537634408602,118
+0.39,"Internal test","Treat all",0.531147540983606,119
+0.4,"Internal test","Treat all",0.511111111111111,120
+0.41,"Internal test","Treat all",0.490395480225989,121
+0.42,"Internal test","Treat all",0.468965517241379,122
+0.43,"Internal test","Treat all",0.446783625730994,123
+0.44,"Internal test","Treat all",0.423809523809524,124
+0.45,"Internal test","Treat all",0.4,125
+0.46,"Internal test","Treat all",0.375308641975309,126
+0.47,"Internal test","Treat all",0.349685534591195,127
+0.48,"Internal test","Treat all",0.323076923076923,128
+0.49,"Internal test","Treat all",0.295424836601307,129
+0.5,"Internal test","Treat all",0.266666666666666,130
+0.51,"Internal test","Treat all",0.236734693877551,131
+0.52,"Internal test","Treat all",0.205555555555555,132
+0.53,"Internal test","Treat all",0.173049645390071,133
+0.54,"Internal test","Treat all",0.139130434782608,134
+0.55,"Internal test","Treat all",0.103703703703703,135
+0.56,"Internal test","Treat all",0.0666666666666662,136
+0.57,"Internal test","Treat all",0.0279069767441857,137
+0.58,"Internal test","Treat all",-0.0126984126984132,138
+0.59,"Internal test","Treat all",-0.0552845528455285,139
+0.6,"Internal test","Treat all",-0.1,140
+0.61,"Internal test","Treat all",-0.147008547008547,141
+0.62,"Internal test","Treat all",-0.196491228070176,142
+0.63,"Internal test","Treat all",-0.248648648648649,143
+0.64,"Internal test","Treat all",-0.303703703703704,144
+0.65,"Internal test","Treat all",-0.361904761904762,145
+0.66,"Internal test","Treat all",-0.423529411764706,146
+0.67,"Internal test","Treat all",-0.488888888888889,147
+0.68,"Internal test","Treat all",-0.558333333333334,148
+0.69,"Internal test","Treat all",-0.63225806451613,149
+0.7,"Internal test","Treat all",-0.711111111111112,150
+0.71,"Internal test","Treat all",-0.795402298850576,151
+0.72,"Internal test","Treat all",-0.885714285714286,152
+0.73,"Internal test","Treat all",-0.982716049382716,153
+0.74,"Internal test","Treat all",-1.08717948717949,154
+0.75,"Internal test","Treat all",-1.2,155
+0.76,"Internal test","Treat all",-1.32222222222222,156
+0.77,"Internal test","Treat all",-1.45507246376812,157
+0.78,"Internal test","Treat all",-1.6,158
+0.79,"Internal test","Treat all",-1.75873015873016,159
+0.8,"Internal test","Treat all",-1.93333333333333,160
+0.01,"GSE16134","Treat all",0.997108009556142,161
+0.02,"GSE16134","Treat all",0.994156998899145,162
+0.03,"GSE16134","Treat all",0.99114514266159,163
+0.04,"GSE16134","Treat all",0.988070539419087,164
+0.05,"GSE16134","Treat all",0.984931207687268,165
+0.06,"GSE16134","Treat all",0.981725081663282,166
+0.07,"GSE16134","Treat all",0.978450006692545,167
+0.08,"GSE16134","Treat all",0.975103734439834,168
+0.09,"GSE16134","Treat all",0.971683917742009,169
+0.1,"GSE16134","Treat all",0.968188105117566,170
+0.11,"GSE16134","Treat all",0.964613734906056,171
+0.12,"GSE16134","Treat all",0.960958129007921,172
+0.13,"GSE16134","Treat all",0.957218486192588,173
+0.14,"GSE16134","Treat all",0.953391874939689,174
+0.15,"GSE16134","Treat all",0.949475225774957,175
+0.16,"GSE16134","Treat all",0.945465323058684,176
+0.17,"GSE16134","Treat all",0.941358796180573,177
+0.18,"GSE16134","Treat all",0.937152110110313,178
+0.19,"GSE16134","Treat all",0.932841555248194,179
+0.2,"GSE16134","Treat all",0.928423236514523,180
+0.21,"GSE16134","Treat all",0.923893061610379,181
+0.22,"GSE16134","Treat all",0.919246728375359,182
+0.23,"GSE16134","Treat all",0.914479711160209,183
+0.24,"GSE16134","Treat all",0.909587246123608,184
+0.25,"GSE16134","Treat all",0.904564315352697,185
+0.26,"GSE16134","Treat all",0.899405629696086,186
+0.27,"GSE16134","Treat all",0.894105610185869,187
+0.28,"GSE16134","Treat all",0.88865836791148,188
+0.29,"GSE16134","Treat all",0.883057682192741,189
+0.3,"GSE16134","Treat all",0.877296976882039,190
+0.31,"GSE16134","Treat all",0.871369294605809,191
+0.32,"GSE16134","Treat all",0.865267268733219,192
+0.33,"GSE16134","Treat all",0.858983092834582,193
+0.34,"GSE16134","Treat all",0.852508487363259,194
+0.35,"GSE16134","Treat all",0.845834663262049,195
+0.36,"GSE16134","Treat all",0.838952282157676,196
+0.37,"GSE16134","Treat all",0.831851412764276,197
+0.38,"GSE16134","Treat all",0.824521483067862,198
+0.39,"GSE16134","Treat all",0.816951227807632,199
+0.4,"GSE16134","Treat all",0.809128630705394,200
+0.41,"GSE16134","Treat all",0.801040860820029,201
+0.42,"GSE16134","Treat all",0.792674202317928,202
+0.43,"GSE16134","Treat all",0.784013976850841,203
+0.44,"GSE16134","Treat all",0.775044457617072,204
+0.45,"GSE16134","Treat all",0.765748774047529,205
+0.46,"GSE16134","Treat all",0.756108805901337,206
+0.47,"GSE16134","Treat all",0.74610506537227,207
+0.48,"GSE16134","Treat all",0.735716565592084,208
+0.49,"GSE16134","Treat all",0.724920673663656,209
+0.5,"GSE16134","Treat all",0.713692946058091,210
+0.51,"GSE16134","Treat all",0.702006943856381,211
+0.52,"GSE16134","Treat all",0.689834024896266,212
+0.53,"GSE16134","Treat all",0.677143109384656,213
+0.54,"GSE16134","Treat all",0.663900414937759,214
+0.55,"GSE16134","Treat all",0.650069156293223,215
+0.56,"GSE16134","Treat all",0.635609204073934,216
+0.57,"GSE16134","Treat all",0.62047669593747,217
+0.58,"GSE16134","Treat all",0.604623592175459,218
+0.59,"GSE16134","Treat all",0.587997166278717,219
+0.6,"GSE16134","Treat all",0.570539419087137,220
+0.61,"GSE16134","Treat all",0.55218640280881,221
+0.62,"GSE16134","Treat all",0.532867438305307,222
+0.63,"GSE16134","Treat all",0.512504205450264,223
+0.64,"GSE16134","Treat all",0.491009681881051,224
+0.65,"GSE16134","Treat all",0.46828689982217,225
+0.66,"GSE16134","Treat all",0.44422748352453,226
+0.67,"GSE16134","Treat all",0.41870992078461,227
+0.68,"GSE16134","Treat all",0.391597510373444,228
+0.69,"GSE16134","Treat all",0.362735912193816,229
+0.7,"GSE16134","Treat all",0.33195020746888,230
+0.71,"GSE16134","Treat all",0.299041350693947,231
+0.72,"GSE16134","Treat all",0.263781861292235,232
+0.73,"GSE16134","Treat all",0.225910557860766,233
+0.74,"GSE16134","Treat all",0.18512607724226,234
+0.75,"GSE16134","Treat all",0.141078838174274,235
+0.76,"GSE16134","Treat all",0.0933609958506226,236
+0.77,"GSE16134","Treat all",0.0414937759336101,237
+0.78,"GSE16134","Treat all",-0.0150886457940398,238
+0.79,"GSE16134","Treat all",-0.0770598695909899,239
+0.8,"GSE16134","Treat all",-0.145228215767635,240
+0.01,"Training","Treat none",0,1
+0.02,"Training","Treat none",0,2
+0.03,"Training","Treat none",0,3
+0.04,"Training","Treat none",0,4
+0.05,"Training","Treat none",0,5
+0.06,"Training","Treat none",0,6
+0.07,"Training","Treat none",0,7
+0.08,"Training","Treat none",0,8
+0.09,"Training","Treat none",0,9
+0.1,"Training","Treat none",0,10
+0.11,"Training","Treat none",0,11
+0.12,"Training","Treat none",0,12
+0.13,"Training","Treat none",0,13
+0.14,"Training","Treat none",0,14
+0.15,"Training","Treat none",0,15
+0.16,"Training","Treat none",0,16
+0.17,"Training","Treat none",0,17
+0.18,"Training","Treat none",0,18
+0.19,"Training","Treat none",0,19
+0.2,"Training","Treat none",0,20
+0.21,"Training","Treat none",0,21
+0.22,"Training","Treat none",0,22
+0.23,"Training","Treat none",0,23
+0.24,"Training","Treat none",0,24
+0.25,"Training","Treat none",0,25
+0.26,"Training","Treat none",0,26
+0.27,"Training","Treat none",0,27
+0.28,"Training","Treat none",0,28
+0.29,"Training","Treat none",0,29
+0.3,"Training","Treat none",0,30
+0.31,"Training","Treat none",0,31
+0.32,"Training","Treat none",0,32
+0.33,"Training","Treat none",0,33
+0.34,"Training","Treat none",0,34
+0.35,"Training","Treat none",0,35
+0.36,"Training","Treat none",0,36
+0.37,"Training","Treat none",0,37
+0.38,"Training","Treat none",0,38
+0.39,"Training","Treat none",0,39
+0.4,"Training","Treat none",0,40
+0.41,"Training","Treat none",0,41
+0.42,"Training","Treat none",0,42
+0.43,"Training","Treat none",0,43
+0.44,"Training","Treat none",0,44
+0.45,"Training","Treat none",0,45
+0.46,"Training","Treat none",0,46
+0.47,"Training","Treat none",0,47
+0.48,"Training","Treat none",0,48
+0.49,"Training","Treat none",0,49
+0.5,"Training","Treat none",0,50
+0.51,"Training","Treat none",0,51
+0.52,"Training","Treat none",0,52
+0.53,"Training","Treat none",0,53
+0.54,"Training","Treat none",0,54
+0.55,"Training","Treat none",0,55
+0.56,"Training","Treat none",0,56
+0.57,"Training","Treat none",0,57
+0.58,"Training","Treat none",0,58
+0.59,"Training","Treat none",0,59
+0.6,"Training","Treat none",0,60
+0.61,"Training","Treat none",0,61
+0.62,"Training","Treat none",0,62
+0.63,"Training","Treat none",0,63
+0.64,"Training","Treat none",0,64
+0.65,"Training","Treat none",0,65
+0.66,"Training","Treat none",0,66
+0.67,"Training","Treat none",0,67
+0.68,"Training","Treat none",0,68
+0.69,"Training","Treat none",0,69
+0.7,"Training","Treat none",0,70
+0.71,"Training","Treat none",0,71
+0.72,"Training","Treat none",0,72
+0.73,"Training","Treat none",0,73
+0.74,"Training","Treat none",0,74
+0.75,"Training","Treat none",0,75
+0.76,"Training","Treat none",0,76
+0.77,"Training","Treat none",0,77
+0.78,"Training","Treat none",0,78
+0.79,"Training","Treat none",0,79
+0.8,"Training","Treat none",0,80
+0.01,"Internal test","Treat none",0,81
+0.02,"Internal test","Treat none",0,82
+0.03,"Internal test","Treat none",0,83
+0.04,"Internal test","Treat none",0,84
+0.05,"Internal test","Treat none",0,85
+0.06,"Internal test","Treat none",0,86
+0.07,"Internal test","Treat none",0,87
+0.08,"Internal test","Treat none",0,88
+0.09,"Internal test","Treat none",0,89
+0.1,"Internal test","Treat none",0,90
+0.11,"Internal test","Treat none",0,91
+0.12,"Internal test","Treat none",0,92
+0.13,"Internal test","Treat none",0,93
+0.14,"Internal test","Treat none",0,94
+0.15,"Internal test","Treat none",0,95
+0.16,"Internal test","Treat none",0,96
+0.17,"Internal test","Treat none",0,97
+0.18,"Internal test","Treat none",0,98
+0.19,"Internal test","Treat none",0,99
+0.2,"Internal test","Treat none",0,100
+0.21,"Internal test","Treat none",0,101
+0.22,"Internal test","Treat none",0,102
+0.23,"Internal test","Treat none",0,103
+0.24,"Internal test","Treat none",0,104
+0.25,"Internal test","Treat none",0,105
+0.26,"Internal test","Treat none",0,106
+0.27,"Internal test","Treat none",0,107
+0.28,"Internal test","Treat none",0,108
+0.29,"Internal test","Treat none",0,109
+0.3,"Internal test","Treat none",0,110
+0.31,"Internal test","Treat none",0,111
+0.32,"Internal test","Treat none",0,112
+0.33,"Internal test","Treat none",0,113
+0.34,"Internal test","Treat none",0,114
+0.35,"Internal test","Treat none",0,115
+0.36,"Internal test","Treat none",0,116
+0.37,"Internal test","Treat none",0,117
+0.38,"Internal test","Treat none",0,118
+0.39,"Internal test","Treat none",0,119
+0.4,"Internal test","Treat none",0,120
+0.41,"Internal test","Treat none",0,121
+0.42,"Internal test","Treat none",0,122
+0.43,"Internal test","Treat none",0,123
+0.44,"Internal test","Treat none",0,124
+0.45,"Internal test","Treat none",0,125
+0.46,"Internal test","Treat none",0,126
+0.47,"Internal test","Treat none",0,127
+0.48,"Internal test","Treat none",0,128
+0.49,"Internal test","Treat none",0,129
+0.5,"Internal test","Treat none",0,130
+0.51,"Internal test","Treat none",0,131
+0.52,"Internal test","Treat none",0,132
+0.53,"Internal test","Treat none",0,133
+0.54,"Internal test","Treat none",0,134
+0.55,"Internal test","Treat none",0,135
+0.56,"Internal test","Treat none",0,136
+0.57,"Internal test","Treat none",0,137
+0.58,"Internal test","Treat none",0,138
+0.59,"Internal test","Treat none",0,139
+0.6,"Internal test","Treat none",0,140
+0.61,"Internal test","Treat none",0,141
+0.62,"Internal test","Treat none",0,142
+0.63,"Internal test","Treat none",0,143
+0.64,"Internal test","Treat none",0,144
+0.65,"Internal test","Treat none",0,145
+0.66,"Internal test","Treat none",0,146
+0.67,"Internal test","Treat none",0,147
+0.68,"Internal test","Treat none",0,148
+0.69,"Internal test","Treat none",0,149
+0.7,"Internal test","Treat none",0,150
+0.71,"Internal test","Treat none",0,151
+0.72,"Internal test","Treat none",0,152
+0.73,"Internal test","Treat none",0,153
+0.74,"Internal test","Treat none",0,154
+0.75,"Internal test","Treat none",0,155
+0.76,"Internal test","Treat none",0,156
+0.77,"Internal test","Treat none",0,157
+0.78,"Internal test","Treat none",0,158
+0.79,"Internal test","Treat none",0,159
+0.8,"Internal test","Treat none",0,160
+0.01,"GSE16134","Treat none",0,161
+0.02,"GSE16134","Treat none",0,162
+0.03,"GSE16134","Treat none",0,163
+0.04,"GSE16134","Treat none",0,164
+0.05,"GSE16134","Treat none",0,165
+0.06,"GSE16134","Treat none",0,166
+0.07,"GSE16134","Treat none",0,167
+0.08,"GSE16134","Treat none",0,168
+0.09,"GSE16134","Treat none",0,169
+0.1,"GSE16134","Treat none",0,170
+0.11,"GSE16134","Treat none",0,171
+0.12,"GSE16134","Treat none",0,172
+0.13,"GSE16134","Treat none",0,173
+0.14,"GSE16134","Treat none",0,174
+0.15,"GSE16134","Treat none",0,175
+0.16,"GSE16134","Treat none",0,176
+0.17,"GSE16134","Treat none",0,177
+0.18,"GSE16134","Treat none",0,178
+0.19,"GSE16134","Treat none",0,179
+0.2,"GSE16134","Treat none",0,180
+0.21,"GSE16134","Treat none",0,181
+0.22,"GSE16134","Treat none",0,182
+0.23,"GSE16134","Treat none",0,183
+0.24,"GSE16134","Treat none",0,184
+0.25,"GSE16134","Treat none",0,185
+0.26,"GSE16134","Treat none",0,186
+0.27,"GSE16134","Treat none",0,187
+0.28,"GSE16134","Treat none",0,188
+0.29,"GSE16134","Treat none",0,189
+0.3,"GSE16134","Treat none",0,190
+0.31,"GSE16134","Treat none",0,191
+0.32,"GSE16134","Treat none",0,192
+0.33,"GSE16134","Treat none",0,193
+0.34,"GSE16134","Treat none",0,194
+0.35,"GSE16134","Treat none",0,195
+0.36,"GSE16134","Treat none",0,196
+0.37,"GSE16134","Treat none",0,197
+0.38,"GSE16134","Treat none",0,198
+0.39,"GSE16134","Treat none",0,199
+0.4,"GSE16134","Treat none",0,200
+0.41,"GSE16134","Treat none",0,201
+0.42,"GSE16134","Treat none",0,202
+0.43,"GSE16134","Treat none",0,203
+0.44,"GSE16134","Treat none",0,204
+0.45,"GSE16134","Treat none",0,205
+0.46,"GSE16134","Treat none",0,206
+0.47,"GSE16134","Treat none",0,207
+0.48,"GSE16134","Treat none",0,208
+0.49,"GSE16134","Treat none",0,209
+0.5,"GSE16134","Treat none",0,210
+0.51,"GSE16134","Treat none",0,211
+0.52,"GSE16134","Treat none",0,212
+0.53,"GSE16134","Treat none",0,213
+0.54,"GSE16134","Treat none",0,214
+0.55,"GSE16134","Treat none",0,215
+0.56,"GSE16134","Treat none",0,216
+0.57,"GSE16134","Treat none",0,217
+0.58,"GSE16134","Treat none",0,218
+0.59,"GSE16134","Treat none",0,219
+0.6,"GSE16134","Treat none",0,220
+0.61,"GSE16134","Treat none",0,221
+0.62,"GSE16134","Treat none",0,222
+0.63,"GSE16134","Treat none",0,223
+0.64,"GSE16134","Treat none",0,224
+0.65,"GSE16134","Treat none",0,225
+0.66,"GSE16134","Treat none",0,226
+0.67,"GSE16134","Treat none",0,227
+0.68,"GSE16134","Treat none",0,228
+0.69,"GSE16134","Treat none",0,229
+0.7,"GSE16134","Treat none",0,230
+0.71,"GSE16134","Treat none",0,231
+0.72,"GSE16134","Treat none",0,232
+0.73,"GSE16134","Treat none",0,233
+0.74,"GSE16134","Treat none",0,234
+0.75,"GSE16134","Treat none",0,235
+0.76,"GSE16134","Treat none",0,236
+0.77,"GSE16134","Treat none",0,237
+0.78,"GSE16134","Treat none",0,238
+0.79,"GSE16134","Treat none",0,239
+0.8,"GSE16134","Treat none",0,240

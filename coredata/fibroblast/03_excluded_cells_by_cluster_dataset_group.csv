@@ -1,0 +1,14 @@
+"cluster_primary","qc_lineage_call","dataset","group","n_cells"
+"4","Pericyte/smooth muscle","GSE152042","NC",399
+"4","Pericyte/smooth muscle","GSE152042","PD",548
+"8","Myeloid/ambiguous sample-dominated","GSE164241","NC",554
+"8","Myeloid/ambiguous sample-dominated","GSE164241","PD",1
+"9","T/NK","GSE152042","NC",2
+"9","T/NK","GSE164241","NC",299
+"9","T/NK","GSE164241","PD",156
+"9","T/NK","GSE171213","PD",2
+"10","Epithelial","GSE164241","NC",416
+"10","Epithelial","GSE164241","PD",10
+"11","Plasma","GSE152042","PD",5
+"11","Plasma","GSE164241","NC",42
+"11","Plasma","GSE164241","PD",114

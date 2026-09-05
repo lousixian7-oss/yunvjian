@@ -1,0 +1,113 @@
+"Region","Celltype","Mean_proportion"
+"Suprabasal keratinized","Activated_Fib",0.000192880045261731
+"Suprabasal keratinized","Adventitial_Fib",6.04051018600966e-05
+"Suprabasal keratinized","B cells",0.000127647340668233
+"Suprabasal keratinized","Cycling cells",6.03996957888924e-05
+"Suprabasal keratinized","ECM_Fib",0.00210683819449104
+"Suprabasal keratinized","Endothelial cells",0.000675878818187983
+"Suprabasal keratinized","Epithelial cells",0.989904593520949
+"Suprabasal keratinized","Inflammatory_Fib",6.04065082508535e-05
+"Suprabasal keratinized","Macrophages",0.000347814141919516
+"Suprabasal keratinized","Mast cells",0.000279162886587153
+"Suprabasal keratinized","Neutrophils",0.00269708836646646
+"Suprabasal keratinized","PI16_Fib",0.000429263818651359
+"Suprabasal keratinized","Pericytes",0.000160311407018226
+"Suprabasal keratinized","Plasma cells",0.000310765114467473
+"Suprabasal keratinized","T cells",8.06845555885717e-05
+"Suprabasal keratinized","pDCs",0.00250586048384325
+"Suprabasal granular","Activated_Fib",4.40559604450696e-05
+"Suprabasal granular","Adventitial_Fib",5.830173243712e-05
+"Suprabasal granular","B cells",0.00122242656147466
+"Suprabasal granular","Cycling cells",4.40549245170641e-05
+"Suprabasal granular","ECM_Fib",0.000862382713833825
+"Suprabasal granular","Endothelial cells",0.00414377047844609
+"Suprabasal granular","Epithelial cells",0.988813892544782
+"Suprabasal granular","Inflammatory_Fib",4.40555047620731e-05
+"Suprabasal granular","Macrophages",0.00183171980697888
+"Suprabasal granular","Mast cells",0.000142172134518787
+"Suprabasal granular","Neutrophils",0.000307130863480111
+"Suprabasal granular","PI16_Fib",0.000349782368466186
+"Suprabasal granular","Pericytes",0.00112141295513022
+"Suprabasal granular","Plasma cells",0.000289387817079464
+"Suprabasal granular","T cells",0.000187095261514277
+"Suprabasal granular","pDCs",0.000538358372133708
+"Suprabasal spinous","Activated_Fib",0.000622520727558779
+"Suprabasal spinous","Adventitial_Fib",0.000230559450188779
+"Suprabasal spinous","B cells",0.000590623741885481
+"Suprabasal spinous","Cycling cells",3.51642083974762e-05
+"Suprabasal spinous","ECM_Fib",0.0063164166670649
+"Suprabasal spinous","Endothelial cells",0.00985267816530656
+"Suprabasal spinous","Epithelial cells",0.97229762618308
+"Suprabasal spinous","Inflammatory_Fib",0.000247444363226371
+"Suprabasal spinous","Macrophages",0.0018424554435008
+"Suprabasal spinous","Mast cells",0.000299194651569557
+"Suprabasal spinous","Neutrophils",4.93175321755395e-05
+"Suprabasal spinous","PI16_Fib",0.00343810888334017
+"Suprabasal spinous","Pericytes",0.00246697805208731
+"Suprabasal spinous","Plasma cells",0.000156151637645743
+"Suprabasal spinous","T cells",0.00124026184065924
+"Suprabasal spinous","pDCs",0.00031449845231366
+"Basal epithelium","Activated_Fib",0.0106053752812334
+"Basal epithelium","Adventitial_Fib",0.0112833254377151
+"Basal epithelium","B cells",0.00468570193829176
+"Basal epithelium","Cycling cells",0.00185621214960491
+"Basal epithelium","ECM_Fib",0.012335481229401
+"Basal epithelium","Endothelial cells",0.0341775780059022
+"Basal epithelium","Epithelial cells",0.879304611064098
+"Basal epithelium","Inflammatory_Fib",0.00172007218743515
+"Basal epithelium","Macrophages",0.00732826451207216
+"Basal epithelium","Mast cells",0.00141526199077978
+"Basal epithelium","Neutrophils",5.46450707389547e-05
+"Basal epithelium","PI16_Fib",0.0166491932686852
+"Basal epithelium","Pericytes",0.0126766319635243
+"Basal epithelium","Plasma cells",0.000148114435311047
+"Basal epithelium","T cells",0.00407011982229393
+"Basal epithelium","pDCs",0.00168941164291297
+"Junctional epithelium","Activated_Fib",0.0229878307444333
+"Junctional epithelium","Adventitial_Fib",3.59043023470186e-05
+"Junctional epithelium","B cells",0.00387092753396628
+"Junctional epithelium","Cycling cells",0.0120080021669602
+"Junctional epithelium","ECM_Fib",0.0108393633392005
+"Junctional epithelium","Endothelial cells",0.0104887282883486
+"Junctional epithelium","Epithelial cells",0.899866737945316
+"Junctional epithelium","Inflammatory_Fib",0.0100269037387555
+"Junctional epithelium","Macrophages",0.0140055984576204
+"Junctional epithelium","Mast cells",0.00378067225393746
+"Junctional epithelium","Neutrophils",0.000869348264086216
+"Junctional epithelium","PI16_Fib",0.000591017442397812
+"Junctional epithelium","Pericytes",0.00179604059798333
+"Junctional epithelium","Plasma cells",0.00431311546703331
+"Junctional epithelium","T cells",0.00285894869892314
+"Junctional epithelium","pDCs",0.00166086075869043
+"Immune stroma","Activated_Fib",0.0642069657342426
+"Immune stroma","Adventitial_Fib",0.0428470277879052
+"Immune stroma","B cells",0.00944434526387045
+"Immune stroma","Cycling cells",0.00261877780882289
+"Immune stroma","ECM_Fib",0.221106456280378
+"Immune stroma","Endothelial cells",0.147241074652456
+"Immune stroma","Epithelial cells",0.235886366446385
+"Immune stroma","Inflammatory_Fib",0.0264952612488047
+"Immune stroma","Macrophages",0.0280026137238039
+"Immune stroma","Mast cells",0.00931236154290816
+"Immune stroma","Neutrophils",0.000751202978063877
+"Immune stroma","PI16_Fib",0.029991143102668
+"Immune stroma","Pericytes",0.0948116403051772
+"Immune stroma","Plasma cells",0.074954977036916
+"Immune stroma","T cells",0.00898829156896653
+"Immune stroma","pDCs",0.00334149451863151
+"Reticular stroma","Activated_Fib",0.0330378112051222
+"Reticular stroma","Adventitial_Fib",0.046784188943155
+"Reticular stroma","B cells",0.0078946400257955
+"Reticular stroma","Cycling cells",0.00808534598150144
+"Reticular stroma","ECM_Fib",0.211052277139199
+"Reticular stroma","Endothelial cells",0.0948021976963958
+"Reticular stroma","Epithelial cells",0.442476146280879
+"Reticular stroma","Inflammatory_Fib",0.0127290399153339
+"Reticular stroma","Macrophages",0.0212527604464807
+"Reticular stroma","Mast cells",0.00786753174953847
+"Reticular stroma","Neutrophils",0.000899058052780095
+"Reticular stroma","PI16_Fib",0.0533555724669753
+"Reticular stroma","Pericytes",0.0372926039348195
+"Reticular stroma","Plasma cells",0.0113742874409547
+"Reticular stroma","T cells",0.0075229165683379
+"Reticular stroma","pDCs",0.00357362215273181

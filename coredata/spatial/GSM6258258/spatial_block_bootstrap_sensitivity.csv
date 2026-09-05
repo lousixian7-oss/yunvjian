@@ -1,0 +1,17 @@
+"sample","block_width_nn","n_blocks","metric","lower","upper","B","note","estimate"
+"GSM6258255",2,264,"Pearson",-0.0150253127965765,0.112998545355239,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.0550179897096354
+"GSM6258255",2,264,"Spearman",0.274533889362568,0.428304695394124,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.357863635543705
+"GSM6258255",4,78,"Pearson",-0.0281928572663022,0.130990538275736,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.0550179897096354
+"GSM6258255",4,78,"Spearman",0.222648722008719,0.46534099337324,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.357863635543705
+"GSM6258256",2,103,"Pearson",0.136144869857104,0.390129831616518,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.257241480517201
+"GSM6258256",2,103,"Spearman",0.279302572871536,0.497644664223666,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.394234295039691
+"GSM6258256",4,30,"Pearson",0.0722537630310119,0.366659579562483,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.257241480517201
+"GSM6258256",4,30,"Spearman",0.200406079479805,0.530808035383213,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.394234295039691
+"GSM6258257",2,41,"Pearson",0.596327464865301,0.784516665549208,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.682097244470158
+"GSM6258257",2,41,"Spearman",0.285847731747434,0.67609812999876,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.50909117543654
+"GSM6258257",4,14,"Pearson",0.56133162629535,0.750518254439648,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.682097244470158
+"GSM6258257",4,14,"Spearman",0.321057226046158,0.6721815179126,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.50909117543654
+"GSM6258258",2,133,"Pearson",0.00682399812177974,0.211097175975221,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.107556463501059
+"GSM6258258",2,133,"Spearman",0.126612315584707,0.365019939783584,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.244288665696495
+"GSM6258258",4,43,"Pearson",-0.0353858959279941,0.276406068466971,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.107556463501059
+"GSM6258258",4,43,"Spearman",0.0813319906133124,0.391384602358292,1000,"Spatial-block resampling sensitivity; no independent-donor inference",0.244288665696495

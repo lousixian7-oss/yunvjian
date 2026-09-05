@@ -1,0 +1,5 @@
+"comparison","preprocessing","delta_AUC","CI_low","CI_high","bootstrap_two_sided_P"
+"Three_gene minus Locked4_C3","Median_of_ratios_log2",-0.02,-0.09,0,0.8788
+"Alt4_EPHX2 minus Locked4_C3","Median_of_ratios_log2",-0.02,-0.09,0,0.8288
+"Three_gene minus Locked4_C3","Official_log2_CPM",-0.03,-0.11,0,0.4672
+"Alt4_EPHX2 minus Locked4_C3","Official_log2_CPM",-0.03,-0.1,0,0.4488

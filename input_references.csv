@@ -1,0 +1,200 @@
+﻿script,line,input_or_working_directory_statement
+figure3/WGCNA.R,3,datExpr0 = read.csv(
+figure3/WGCNA.R,83,"datTraits = read.csv(""分类（新）.csv"", row.names = 1)"
+figure3/WGCNA.R,502,gene127 <- read.csv(
+figure3/WGCNA_module_trait_Bonferroni_reproducible.R,37,loaded_objects <- load(input_file)
+figure5/compare_three_and_ephx2_models.R,22,"dev_expr <- read.csv(file.path(input_dir, ""development_expression.csv""), row.names = 1, check.names = FALSE)"
+figure5/compare_three_and_ephx2_models.R,23,"dev_info <- read.csv(file.path(input_dir, ""development_sample_info.csv""), row.names = 1, check.names = FALSE)"
+figure5/compare_three_and_ephx2_models.R,24,"split_info <- read.csv(file.path(input_dir, ""patient_split.csv""), check.names = FALSE)"
+figure5/compare_three_and_ephx2_models.R,25,"same_expr <- read.csv(file.path(input_dir, ""GSE16134_expression.csv""), row.names = 1, check.names = FALSE)"
+figure5/compare_three_and_ephx2_models.R,26,"same_info <- read.csv(file.path(input_dir, ""GSE16134_sample_info.csv""), row.names = 1, check.names = FALSE)"
+figure5/compare_models_gse223924.R,44,"raw <- read.csv(gzfile(file.path(gse_dir, ""GSE223924_raw_count.csv.gz"")), row.names = 1, check.names = FALSE)"
+figure5/compare_models_gse223924.R,45,"lcpm <- read.csv(gzfile(file.path(gse_dir, ""GSE223924_lcpm_exp.csv.gz"")), row.names = 1, check.names = FALSE)"
+figure5/compare_models_gse223924.R,46,"dev_expr <- read.csv(file.path(input_dir, ""development_expression.csv""), row.names = 1, check.names = FALSE)"
+figure5/compare_models_gse223924.R,47,"dev_info <- read.csv(file.path(input_dir, ""development_sample_info.csv""), row.names = 1, check.names = FALSE)"
+figure5/compare_models_gse223924.R,48,"split <- read.csv(file.path(input_dir, ""patient_split.csv""), check.names = FALSE)"
+figure5/rebuild_Figure5_FigureS2_three_gene_20260902.R,110,"expr <- read.csv(file.path(input_dir, ""development_expression.csv""), row.names = 1, check.names = FALSE)"
+figure5/rebuild_Figure5_FigureS2_three_gene_20260902.R,111,"split <- read.csv(file.path(input_dir, ""patient_split.csv""), check.names = FALSE)"
+figure5/rebuild_Figure5_FigureS2_three_gene_20260902.R,124,"ext_expr <- read.csv(file.path(input_dir, ""GSE16134_expression.csv""), row.names = 1, check.names = FALSE)"
+figure5/rebuild_Figure5_FigureS2_three_gene_20260902.R,125,"ext_info <- read.csv(file.path(input_dir, ""GSE16134_sample_info.csv""), check.names = FALSE)"
+figure5/rebuild_Figure5_FigureS2_three_gene_20260902.R,136,"metric_all <- read.csv(file.path(sensitivity_dir, ""Table_AUC_cluster_bootstrap_CI.csv""), check.names = FALSE)"
+figure5/rebuild_Figure5_FigureS2_three_gene_20260902.R,191,"pred223 <- read.csv(file.path(sensitivity_dir, ""GSE223924_three_model_predictions.csv""), check.names = FALSE)"
+figure5/rebuild_Figure5_FigureS2_three_gene_20260902.R,195,"m223 <- read.csv(file.path(sensitivity_dir, ""Table_GSE223924_three_model_AUC.csv""), check.names = FALSE)"
+figure7/01_source_faithful_hdwgcna.R,26,setwd(output_dir)
+figure7/01_source_faithful_hdwgcna.R,45,yjsl <- readRDS(input_rds)
+figure7/02_downstream_stats_enrichment.R,34,obj <- readRDS(object_file)
+figure7/02_downstream_stats_enrichment.R,135,"hub <- read.csv(file.path(table_dir, ""03_hub_genes_top100_each_module.csv""), check.names = FALSE)"
+figure7/02_downstream_stats_enrichment.R,139,"old_hubs <- read.csv(old_hub_file, check.names = FALSE)$gene_name"
+figure7/02_downstream_stats_enrichment.R,240,"universe_symbols <- read.csv(file.path(table_dir, ""02_module_assignments_non_grey.csv""), check.names = FALSE)$gene_name"
+figure7/03_resume_figures_enrichment.R,26,"cor_table <- read.csv(file.path(table_dir, ""06_AGT_module_spearman_all_modules.csv""), check.names = FALSE)"
+figure7/03_resume_figures_enrichment.R,29,"eligible <- read.csv(file.path(table_dir, ""05_sample_level_AGT_PI16_module_hMEs.csv""), check.names = FALSE) %>%"
+figure7/03_resume_figures_enrichment.R,31,"state_summary <- read.csv(file.path(table_dir, ""07_sample_state_module_hMEs_n10.csv""), check.names = FALSE)"
+figure7/03_resume_figures_enrichment.R,32,"state_global <- read.csv(file.path(table_dir, ""08_module_state_kruskal_tests.csv""), check.names = FALSE)"
+figure7/03_resume_figures_enrichment.R,33,"group_lm_coef <- read.csv(file.path(table_dir, ""10_selected_module_dataset_adjusted_group_model.csv""), check.names = FALSE)"
+figure7/03_resume_figures_enrichment.R,34,"group_test <- read.csv(file.path(table_dir, ""11_selected_module_PD_NC_wilcoxon.csv""), check.names = FALSE)"
+figure7/03_resume_figures_enrichment.R,35,"score_df <- read.csv(file.path(table_dir, ""15_independent_module_score_by_sample_state_n10.csv""), check.names = FALSE)"
+figure7/03_resume_figures_enrichment.R,36,"score_kw <- read.csv(file.path(table_dir, ""17_independent_score_state_kruskal.csv""), check.names = FALSE)"
+figure7/03_resume_figures_enrichment.R,37,"hub <- read.csv(file.path(table_dir, ""03_hub_genes_top100_each_module.csv""), check.names = FALSE)"
+figure7/04_reexport_white_background.R,13,"seurat_obj <- readRDS(file.path(output_dir, ""hdWGCNA_object_final.rds""))"
+figure8/cellchat_ECM_Fib_revision_allcell_original_style.R,75,cellchat_NC <- readRDS(
+figure8/cellchat_ECM_Fib_revision_allcell_original_style.R,80,cellchat_PD <- readRDS(
+figure8/composition_corrected_cellchat.R,40,obj <- readRDS(INPUT_RDS)
+figure8/ECM_Fib_to_Activated_Fib_sample_level_statistics.R,36,cellchat_nc <- readRDS(nc_file)
+figure8/ECM_Fib_to_Activated_Fib_sample_level_statistics.R,37,cellchat_pd <- readRDS(pd_file)
+figures1/Generate_Disease_Separation_Supplement.R,13,"expr <- read.csv(expression_file, row.names = 1, check.names = FALSE)"
+figures1/Generate_Disease_Separation_Supplement.R,14,"group_onehot <- read.csv(group_file, row.names = 1, check.names = FALSE)"
+figures2/rerun_41gene.R,8,"old <- new.env(); load("".RData"",envir=old)"
+figures2/plot_corrected_S2.R,8,"z<-read.csv(""eight_models_sample_predictions.csv"");z<-z[z$Split==""Screening holdout"",];z$Model<-disp(z$Model)"
+figures2/plot_corrected_S2.R,18,"me<-read.csv(""eight_models_metrics.csv"");me<-me[me$Split==""Screening holdout"",];me$Model<-disp(me$Model)"
+figures2/plot_corrected_S2.R,23,"im<-read.csv(""eight_models_importance_rankings.csv"");im<-im[im$variable %in% c(""AGT"",""CXCR4"",""FOS"",""EPHX2""),];im$Model<-factor(disp(im$Model),levels=lev);im$variable<-factor(im$variable,levels=rev(c(""AGT"",""CXCR4"",""FOS"",""EPHX2"")))"
+figures2/plot_corrected_S2.R,26,"m<-as.matrix(read.csv(""WGCNA_correlations_recovered.csv"",row.names=1,check.names=FALSE))"
+figures6/create_Figs6_pathway_violins.R,12,cellchat_PD <- readRDS(input_object)
+figures7/spatial_PD_replication.R,11,setwd(out)
+figures7/spatial_PD_replication.R,34,counts <- Read10X('counts')
+figures7/spatial_PD_replication.R,36,"positions <- read.csv('spatial/tissue_positions_list.csv',header=FALSE,stringsAsFactors=FALSE)"
+figures7/spatial_PD_replication.R,81,"run_misty_original <- function() sys.source(file.path(out,'provenance','MISTy_PD_refinedFib_ECM_full.R'),envir=environment())"
+figures7/spatial_PD_replication.R,86,st <- readRDS('stRNA_RCTD_refinedFib_ECM_PD.rds')
+figures7/spatial_PD_replication.R,89,"w <- read.csv('RCTD_PD_refinedFib_ECM_weights_full.csv',check.names=FALSE)"
+figures7/spatial_PD_replication.R,94,"write.csv(data.frame(sample=sample_id,n_RCTD_output=nrow(read.csv('RCTD_PD_refinedFib_ECM_weights_full.csv')),n_positive_full_weights=nrow(w)),'RCTD_spot_counts.csv',row.names=FALSE)"
+figures7/RCTD_PD_refinedFib_ECM_rerun.R,77,yjsl <- readRDS(reference_file)
+figures7/RCTD_PD_refinedFib_ECM_rerun.R,132,"loaded_names <- load(spatial_file, envir = spatial_env)"
+figures7/MISTy_PD_refinedFib_ECM_full.R,30,stRNA <- readRDS(spatial_file)
+figures7/MISTy_PD_refinedFib_ECM_full.R,33,"weights_df <- read.csv(weights_file, check.names = FALSE, stringsAsFactors = FALSE)"
+figures7/summarize_PD_replication.R,12,"w <- read.csv(fs,check.names=FALSE)"
+figures7/summarize_PD_replication.R,28,obj <- readRDS(target)
+figure2/preprocessing/GEO数据处理、合并.R,20,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输入数据"")"
+figure2/preprocessing/GEO数据处理、合并.R,25,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输出数据"")"
+figure2/preprocessing/GEO数据处理、合并.R,114,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输入数据"")"
+figure2/preprocessing/GEO数据处理、合并.R,119,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输出数据"")"
+figure2/preprocessing/GEO数据处理、合并.R,210,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输入数据"")"
+figure2/preprocessing/GEO数据处理、合并.R,215,"setwd(""E:\\GEO\\3.GEO数据下载与ID转换\\输出数据"")"
+figure2/preprocessing/GEO数据处理、合并.R,425,"exp_GSE23586 <- read.csv(""GSE23586.数据标准化后.csv"",row.names = 1)"
+figure2/preprocessing/GEO数据处理、合并.R,429,"exp_GSE156993 <- read.csv(""GSE156993.数据标准化后.csv"",row.names = 1)"
+figure2/preprocessing/GEO数据处理、合并.R,432,"exp_GSE6751 <- read.csv(""GSE6751.数据标准化后.csv"",row.names = 1)"
+figure2/preprocessing/GEO数据处理、合并.R,433,"exp_GSE10334 <- read.csv(""GSE10334.数据标准化后.csv"",row.names = 1)"
+figure2/preprocessing/GEO数据处理、合并.R,492,exp <- read.csv(
+figure2/differential_expression/limma 分析+火山图绘制.R,7,"exp<-read.csv(""去除批次效应后表达矩阵.csv"",row.names = 1)#读入表达矩阵文件"
+figure2/differential_expression/limma 分析+火山图绘制.R,22,"fen<-read.csv(""分类（新）.csv"",row.names = 1)#读入表达矩阵表头的分类文件"
+figure2/enrichment/GO_KEGG富集分析.R,9,"genes_df <- read.csv(""核心基因集.csv"")"
+figure3/富集/GO_KEGG富集分析.R,9,"genes_df <- read.csv(""核心基因集.csv"")"
+figure3/富集/tur/GO_KEGG富集分析.R,9,"genes_df <- read.csv(""核心基因集.csv"")"
+figure4/periodontitis基因/PD合并韦恩图代码.R,8,"data <- read.csv(""输入数据.csv"")"
+figure4/yunvjian成分/network.R,1,"setwd(""E:/Yunvjian/yunvjian"")"
+figure4/yunvjian成分/network.R,4,"a=read.csv(""Maidong.csv"",header=T)"
+figure4/调控网络/network.R,1,"a<-read.csv(""net_network.csv"")"
+figure4/调控网络/network.R,2,"gene<-read.csv(""pd&yunajian交集基因.csv"")"
+figure4/调控网络/network.R,6,"a=read.csv(""Maidong.csv"",header=T)"
+figure4/调控网络/network.R,10,"e<-read.csv(""type.csv"")"
+figure4/MR/eqtl共定位3.2.R,9,"a<-read.table(file=""eqtlgen-lite.txt"",header=T)"
+figure4/MR/eqtl共定位3.2.R,13,"c<-read.csv(""gene.csv"")"
+figure4/MR/eqtl共定位3.2.R,15,"c<-read.table(""gene.txt"")"
+figure4/MR/多本地-单本地时使用(1).R,247,"combined_df <- read.csv(csv_files[1], stringsAsFactors = FALSE)"
+figure4/MR/多本地-单本地时使用(1).R,260,"temp_df <- read.csv(csv_files[i], stringsAsFactors = FALSE)"
+figure4/periodontitis基因/三个合并/韦恩图代码.R,8,"data <- read.csv(""pd并集基因.csv"")"
+figure4/periodontitis基因/三个合并/富集/GO_KEGG富集分析.R,9,"genes_df <- read.csv(""核心基因集.csv"")"
+figure4/18.CytoNCA/9.2/dock18.nodeFilter1.R,11,"score1=read.table(scoreFile1, header=T, sep=""\t"",check.names =FALSE,row.names=1)    #??ȡ?????ļ?"
+figure5/corrected_release/fix_nomogram.R,3,"fit<-readRDS(""Locked_three_gene_logistic_model.rds"")"
+figure6/global/本次分析完整的代码.R,66,"counts <- read.table(count_file[1],"
+figure6/global/本次分析完整的代码.R,73,"cell_names <- read.table(cell_file[1], header = FALSE, stringsAsFactors = FALSE)$V1"
+figure6/global/本次分析完整的代码.R,135,counts <- Read10X(data.dir = sample_path)
+figure6/global/本次分析完整的代码.R,365,"markers<-read.csv(""cluster的标记基因.csv"")"
+figure6/global/本次分析完整的代码.R,375,"yjsl=readRDS(""af2.rds"")"
+figure6/global/本次分析完整的代码.R,387,"# load(""allmarkers.rda"")"
+figure6/global/本次分析完整的代码.R,527,"yjsl <- readRDS(""yjsl_clean_allGSE.rds"")"
+figure6/global/本次分析完整的代码.R,599,"Endothelial<-readRDS(""Endothelial_clean.rds"")"
+figure6/final_panel_C/make_Figure6C_three_gene_GSM.R,18,fib <- readRDS(input)
+figure6/final_panel_C/test_Figure6C_three_genes.R,6,"pb<-readRDS(file.path(out,'GSM_pseudobulk_counts_and_metadata.rds'))"
+figure6/final_panel_C/test_Figure6C_three_genes.R,12,"norm<-read.csv(file.path(out,'Table_TMM_normalization.csv'))"
+figure6/final_panel_C/add_Figure6C_significance.R,6,"plotdata<-readRDS(file.path(out,'Figure6C_plot_data.rds'))"
+figure6/final_panel_C/add_Figure6C_significance.R,7,"eligible<-read.csv(file.path(out,'Table_TMM_normalization.csv'))"
+figure6/final_panel_C/add_Figure6C_significance.R,20,"stats<-read.csv(file.path(out,'Table_three_gene_dataset_adjusted_edgeR.csv'))"
+figure6/fibroblast/scripts/00_preliminary_qc_clustering.R,143,parent <- readRDS(input_rds)
+figure6/fibroblast/scripts/00_preliminary_qc_clustering.R,159,old_fibro <- readRDS(old_fibro_rds)
+figure6/fibroblast/scripts/01_clean_recluster_integrated_fibroblasts.R,63,fibro_before <- readRDS(input_rds)
+figure6/fibroblast/scripts/02_sample_level_mechanism_and_sensitivity.R,123,fibro <- readRDS(input_rds)
+figure6/fibroblast/scripts/03_assemble_final_figures.R,37,fibro <- readRDS(object_file)
+figure6/fibroblast/scripts/03_assemble_final_figures.R,96,"composition <- read.csv(file.path(table_dir, ""16_sample_level_fibroblast_composition.csv""),"
+figure6/fibroblast/scripts/03_assemble_final_figures.R,122,"sample_program <- read.csv(file.path(table_dir, ""17_sample_level_module_scores.csv""),"
+figure6/fibroblast/scripts/03_assemble_final_figures.R,125,"act_stats <- read.csv(file.path(table_dir, ""19_sample_level_module_score_statistics.csv""),"
+figure6/fibroblast/scripts/05_redraw_figure6_GK.R,39,fibro <- readRDS(object_file)
+figure6/fibroblast/scripts/05_redraw_figure6_GK.R,203,activated_stats <- read.csv(
+figure6/fibroblast/scripts/06_assemble_reviewer_supplement.R,46,composition <- read.csv(
+figure6/fibroblast/scripts/07_audit_unassigned_nearest_neighbors.R,9,"obj <- readRDS(file.path(out_dir, ""results/objects/fibroblast_revision_final.rds""))"
+figure6/fibroblast/scripts/08_build_FigureS4_dataset_bias.R,30,fibro <- readRDS(object_file)
+figure6/fibroblast/scripts/08_build_FigureS4_dataset_bias.R,138,"composition <- read.csv(file.path(figure6_table_dir,"
+figure6/fibroblast/scripts/08_build_FigureS4_dataset_bias.R,236,"sample_program <- read.csv(file.path(table_dir,"
+figure6/fibroblast/scripts/08_build_FigureS4_dataset_bias.R,403,"ari_long <- read.csv(file.path(table_dir, ""05_resolution_stability_ARI.csv""),"
+figure6/fibroblast/scripts/09_check_five_gene_activated_score.R,3,"x <- readRDS(p); DefaultAssay(x) <- ""RNA""; x[[""RNA""]] <- JoinLayers(x[[""RNA""]])"
+figure6/fibroblast/scripts/11_test_C3_AGT_by_fibroblast_state_pseudobulk.R,14,fibro <- readRDS(object_file)
+figure6/fibroblast/scripts/12_mandatory_cluster_validations.R,17,"program <- read.csv(file.path(table_dir, ""17_sample_level_module_scores.csv""),"
+figure6/fibroblast/scripts/12_mandatory_cluster_validations.R,197,"ari <- read.csv(file.path(table_dir, ""05_resolution_stability_ARI.csv""),"
+figure6/fibroblast/scripts/12_mandatory_cluster_validations.R,208,"composition <- read.csv(file.path(table_dir,"
+figure6/fibroblast/scripts/15_inspect_rctd_merge_inputs.R,19,x <- readRDS(path)
+figure6/fibroblast/scripts/16_build_yjsl_rctd_refined_fibro.R,48,yjsl <- readRDS(input_yjsl)
+figure6/fibroblast/scripts/16_build_yjsl_rctd_refined_fibro.R,54,fibro <- readRDS(input_fibro)
+figure6/fibroblast/scripts/16_build_yjsl_rctd_refined_fibro.R,166,check <- readRDS(output_rds)
+figure6/fibroblast/scripts/17_plot_AGT_ECM_Fib_pseudobulk.R,11,"fib <- readRDS(file.path(root, ""results/objects/fibroblast_revision_final_no_unassigned.rds""))"
+figure6/fibroblast/scripts/17_plot_AGT_ECM_Fib_pseudobulk.R,46,"previous <- read.csv(file.path(root, ""results/tables/figure6_revised_GK/JK_C3_AGT_state_pseudobulk_edgeR.csv"")) %>% filter(state == ""ECM_Fib"", gene == ""AGT"")"
+figure6/fibroblast/scripts/18_inclusion_threshold_sensitivity_AGT_C3.R,17,fib <- readRDS(obj_file)
+figure6/fibroblast/scripts/19_plot_AGT_ECM_C3_Activated_pseudobulk_compact.R,18,"fib <- readRDS(file.path(root, ""results/objects/fibroblast_revision_final_no_unassigned.rds""))"
+figure6/fibroblast/scripts/19_plot_AGT_ECM_C3_Activated_pseudobulk_compact.R,28,"targeted <- read.csv(targeted_file, check.names = FALSE)"
+figure6/fibroblast/scripts/19_plot_AGT_ECM_C3_Activated_pseudobulk_compact.R,30,"sensitivity <- read.csv(sensitivity_file, check.names = FALSE)"
+figure9/NC/2、注释/空间转录组注释.R,6,"load(""yjsl_示例.rda"")"
+figure9/NC/2、注释/空间转录组注释.R,43,"all_markers<-read.csv(""all_markers.csv"")"
+figure9/NC/2、注释/空间转录组注释.R,193,"region_markers<-read.csv(""Region_all_markers.csv"")"
+figure9/NC/2、注释/空间转录组注释.R,269,"load(""牙龈NC_注释.rda"")"
+figure9/NC/2、注释/空间转录组注释.R,273,"load(""牙周炎_注释.rda"")"
+figure9/NC/3、反卷机(RCTD)/RCTD_refinedFib_ECM_postprocess.R,25,results_spe <- readRDS(result_file)
+figure9/NC/3、反卷机(RCTD)/RCTD_refinedFib_ECM_postprocess.R,51,"loaded_names <- load(spatial_file, envir = spatial_env)"
+figure9/NC/3、反卷机(RCTD)/RCTD_refinedFib_ECM_rerun.R,76,yjsl <- readRDS(reference_file)
+figure9/NC/3、反卷机(RCTD)/RCTD_refinedFib_ECM_rerun.R,131,"loaded_names <- load(spatial_file, envir = spatial_env)"
+figure9/NC/3、反卷机(RCTD)/redraw_RCTD_heatmap_full_square.R,17,"weights_df <- read.csv(weights_file, check.names = FALSE, stringsAsFactors = FALSE)"
+figure9/NC/3、反卷机(RCTD)/redraw_RCTD_heatmap_full_square.R,25,"loaded_names <- load(spatial_file, envir = spatial_env)"
+figure9/NC/3、反卷机(RCTD)/空转反卷机代码.R,21,"yjsl<-readRDS(""yjsl_RCTD_fullannotation_refinedFib.rds"")"
+figure9/NC/3、反卷机(RCTD)/空转反卷机代码.R,33,"load(""牙龈NC_注释.rda"")"
+figure9/NC/3、反卷机(RCTD)/空转反卷机代码.R,114,"load(""myRCTD合并.rda"")"
+figure9/NC/5、细胞通讯/空转细胞通讯代码.R,12,"load(""牙龈NC_注释.rda"")"
+figure9/NC/5、细胞通讯/空转细胞通讯代码.R,133,"load(""cellchatNC.rda"")"
+figure9/NC/5、细胞通讯/空转细胞通讯代码.R,135,"load(""cellchatPD_compare5groups.rda"")"
+figure9/NC/6、MISTy/MISTy_ECM_Activated_correlation_plot.R,11,"d <- read.csv(weights_file, check.names = FALSE, stringsAsFactors = FALSE)"
+figure9/NC/6、MISTy/MISTy_RCTD_refinedFib_ECM_full.R,29,stRNA <- readRDS(spatial_file)
+figure9/NC/6、MISTy/MISTy_RCTD_refinedFib_ECM_full.R,32,"weights_df <- read.csv(weights_file, check.names = FALSE, stringsAsFactors = FALSE)"
+figure9/NC/6、MISTy/MISTy_RCTD_refinedFib_ECM_postprocess.R,17,misty_collect <- readRDS(collect_file)
+figure9/NC/6、MISTy/MISTy_RCTD_refinedFib_ECM_postprocess.R,47,stRNA <- readRDS(spatial_file)
+figure9/NC/6、MISTy/MISTy_RCTD_refinedFib_ECM_postprocess.R,48,"weights_df <- read.csv(weights_file, check.names = FALSE, stringsAsFactors = FALSE)"
+figure9/NC/6、MISTy/空转mistyR分析.R,14,"load(""牙龈NC_注释.rda"")"
+figure9/NC/6、MISTy/空转mistyR分析.R,19,"load(""myRCTD合并.rda"")"
+figure9/NC/6、MISTy/空转mistyR分析.R,20,"myRCTD<-readRDS(""stRNA_RCTD_refinedFib_ECM.rds"")"
+figure9/NC/6、MISTy/空转mistyR分析.R,143,"load(""misty_result.rda"")"
+figure9/NC/1、数据读取/2、三联/空转读取_三联文件.R,7,"counts <- Read10X(data.dir = ""counts"")"
+figure9/NC/2、注释/Figure9_three_gene_20260903/redraw_Figure9_BGH.R,9,"e<-new.env();load(file.path(""inputs"",paste0(gr,""_annotation.rda"")),e)"
+figure9/NC/5、细胞通讯/PERIOSTIN_LR_20260903/plot_PERIOSTIN_LR.R,6,"objects <- setNames(lapply(c('NC','PD'),function(g) readRDS(file.path(input_dir,paste0(g,'_cellchat.rds')))),c('NC','PD'))"
+figure9/NC/5、细胞通讯/TGFb_LR_20260903/inspect_cellchat.R,8,"nm <- load(paste0('inputs/', grp, '_cellchat.rda'), envir=e)"
+figure9/NC/5、细胞通讯/TGFb_LR_20260903/plot_TGFb_LR.R,5,"objects <- lapply(c('NC','PD'), function(g) readRDS(paste0('inputs/',g,'_cellchat.rds')))"
+figure9/PD/2、注释/空间转录组注释.R,6,"load(""牙周炎.rda"")"
+figure9/PD/2、注释/空间转录组注释.R,193,"region_markers<-read.csv(""Region_all_markers.csv"")"
+figure9/PD/2、注释/空间转录组注释.R,273,"load(""牙周炎_注释.rda"")"
+figure9/PD/3、反卷机(RCTD)/空转反卷机代码.R,21,"yjsl<-readRDS(""yjsl_Type.rds"")"
+figure9/PD/3、反卷机(RCTD)/空转反卷机代码.R,26,"load(""牙周炎_注释.rda"")"
+figure9/PD/3、反卷机(RCTD)/空转反卷机代码.R,143,"load(""myRCTD合并.rda"")"
+figure9/PD/5、细胞通讯/空转细胞通讯代码.R,12,"load(""牙周炎_注释.rda"")"
+figure9/PD/5、细胞通讯/空转细胞通讯代码.R,136,"load(""cellchat.rda"")"
+figure9/PD/6、MISTy/空转mistyR分析.R,14,"load(""牙周炎_注释.rda"")"
+figure9/PD/6、MISTy/空转mistyR分析.R,19,"load(""myRCTD合并.rda"")"
+figure9/PD/6、MISTy/空转mistyR分析.R,143,"load(""misty_result.rda"")"
+figure9/PD/refined_RCTD/RCTD_PD_refinedFib_ECM_rerun.R,77,yjsl <- readRDS(reference_file)
+figure9/PD/refined_RCTD/RCTD_PD_refinedFib_ECM_rerun.R,132,"loaded_names <- load(spatial_file, envir = spatial_env)"
+figure9/PD/refined_RCTD/空转反卷机代码.R,21,"yjsl<-readRDS(""yjsl_fullannotation_fibro.rds"")"
+figure9/PD/refined_RCTD/空转反卷机代码.R,33,"load(""牙周炎_注释.rda"")"
+figure9/PD/refined_RCTD/空转反卷机代码.R,119,"load(""myRCTD合并.rda"")"
+figure9/PD/1、数据读取/2、三联/空转读取_三联文件.R,6,"load(""牙周炎.rda"")"
+figure9/PD/1、数据读取/2、三联/空转读取_三联文件.R,8,"counts <- Read10X(data.dir = ""counts"")"
+figure9/PD/1、数据读取/2、三联/空转读取_三联文件.R,32,"tissue_df <- read.csv(tissue_file, header = FALSE, row.names = 1)"
+figure9/PD/2、注释/Figure9_three_gene_20260903/redraw_Figure9_BGH.R,9,"e<-new.env();load(file.path(""inputs"",paste0(gr,""_annotation.rda"")),e)"
+figures8/knockout/虚拟基因敲除(scTenifoldKnk).R,13,"yjsl <- readRDS(""yjsl_clean_allGSE.rds"")"
+figures8/overexpression/OE30.OE.R,18,"setwd(""G:/1Yunvjian/0a26.7.7singlecell/oe/csf2"")"
+figures8/overexpression/OE30.OE.R,20,"yjsl <- readRDS(""yjsl_clean_allGSE.rds"")"
+figures8/overexpression/OE30.OE.R,313,"source(""refer.scTenifoldOE.R"")"
+figures8/overexpression/OE30.OE.R,340,"result_AGT_OE<-readRDS(""AGT_virtual_OE_Fibroblasts_PD.rds"")"
+figures8/knockout/富集/GO_KEGG富集分析.R,9,"genes_df <- read.csv(""核心基因集.csv"")"
+figures8/overexpression/富集/GO_KEGG富集分析.R,9,"genes_df <- read.csv(""核心基因集.csv"")"

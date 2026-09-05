@@ -1,0 +1,47 @@
+{
+  "archived_files": 272,
+  "missing_sources": [],
+  "scripts": 96,
+  "full_pipeline_rerun": false,
+  "bulk": {
+    "discovery_genes": 20188,
+    "discovery_samples": 172,
+    "WGCNA_subset_samples": 171,
+    "WGCNA_excluded_sample": "GSM261278",
+    "subset_note": "Full-gene sample subset, not the final 5000-gene network input"
+  },
+  "spatial": {
+    "GSM6258255": {
+      "spots": 1088,
+      "columns": 16,
+      "nonnegative": true
+    },
+    "GSM6258256": {
+      "spots": 415,
+      "columns": 16,
+      "nonnegative": true
+    },
+    "GSM6258257": {
+      "spots": 160,
+      "columns": 16,
+      "nonnegative": true
+    },
+    "GSM6258258": {
+      "spots": 501,
+      "columns": 16,
+      "nonnegative": true
+    }
+  },
+  "manuscript_changed_paragraphs": [
+    98
+  ],
+  "metadata_cells": {
+    "global": 118050,
+    "fibroblast": 16032
+  },
+  "credential_pattern_scan": "no matches",
+  "document_visual_QA": "17 pages rendered via Word PDF; contact sheets and Data Availability inspected",
+  "files_before_checksum_manifest": 322,
+  "total_bytes": 268450280,
+  "files_over_100MiB": []
+}

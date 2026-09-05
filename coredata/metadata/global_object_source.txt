@@ -1,0 +1,3 @@
+source: G:/1Yunvjian/0a26.7.7singlecell/注释26.8.6/yjsl_clean_allGSE.rds
+cells: 118050
+reductions: pca, harmony, umap

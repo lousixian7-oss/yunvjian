@@ -1,0 +1,3 @@
+source: G:/1Yunvjian/0a26.7.7singlecell/8.10/fibroblast_revision_final/results/objects/fibroblast_revision_final_no_unassigned.rds
+cells: 16032
+reductions: pca, harmony, umap, umap_before, umap_harmony_existing, harmony_explicit, umap_harmony_explicit, harmony_fibro_dataset, harmony_fibro_cohort, umap_fibro_pca, umap_fibro_harmony, umap_fibro_cohort, harmony_fibro_final, umap_fibro_before_final, umap_fibro_final

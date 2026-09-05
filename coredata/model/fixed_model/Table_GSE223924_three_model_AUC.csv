@@ -1,0 +1,7 @@
+"model","genes","preprocessing","samples","NC","PD","AUC","CI_low","CI_high","Brier"
+"Locked4_C3","AGT;C3;CXCR4;FOS","Median_of_ratios_log2",20,10,10,0.92,0.76,1,0.126495990917396
+"Three_gene","AGT;CXCR4;FOS","Median_of_ratios_log2",20,10,10,0.9,0.72,1,0.143573411581854
+"Alt4_EPHX2","AGT;EPHX2;CXCR4;FOS","Median_of_ratios_log2",20,10,10,0.9,0.73,1,0.138391164136623
+"Locked4_C3","AGT;C3;CXCR4;FOS","Official_log2_CPM",20,10,10,0.92,0.76,1,0.124582958421645
+"Three_gene","AGT;CXCR4;FOS","Official_log2_CPM",20,10,10,0.89,0.7,1,0.14057099385509
+"Alt4_EPHX2","AGT;EPHX2;CXCR4;FOS","Official_log2_CPM",20,10,10,0.89,0.7,1,0.136158660796668

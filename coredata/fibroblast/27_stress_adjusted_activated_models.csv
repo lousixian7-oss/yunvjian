@@ -1,0 +1,5 @@
+"scope","model","effect","std_error","t_value","p_value","lower_95","upper_95","n_samples","formula","significance"
+"GSE164241 + GSE171213","Dataset adjusted",0.321802078174405,0.0989492962984552,3.25219168010828,0.00326886099500867,0.118012187679927,0.525591968668883,28,"score_Activated_fibroblast ~ dataset + group","**"
+"GSE164241 + GSE171213","Dataset + stress adjusted",0.265131594064188,0.156470619263718,1.69444970123964,0.103119256244796,-0.0578078919712456,0.588071080099621,28,"score_Activated_fibroblast ~ dataset + score_Stress + group","ns"
+"GSE164241","Cohort adjusted",0.357493209510718,0.0990561798217193,3.6089945135592,0.00200664260660258,0.149383898101189,0.565602520920248,21,"score_Activated_fibroblast ~ cohort + group","**"
+"GSE164241","Cohort + stress adjusted",0.428665466910738,0.170559473574201,2.51329027891405,0.022331571712928,0.0688164326168382,0.788514501204638,21,"score_Activated_fibroblast ~ cohort + score_Stress + group","*"

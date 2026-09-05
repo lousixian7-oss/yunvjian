@@ -1,0 +1,2 @@
+"original_state","final_state","n_cells","fraction_all_fibroblasts","assignment_rule"
+"Unassigned_Fib","ECM_Fib",132,0.00823353293413174,"Harmony 30-NN majority (93/132 ECM); closest state centroid = ECM; rare mixed cluster retained in audit metadata as state_final_audit"

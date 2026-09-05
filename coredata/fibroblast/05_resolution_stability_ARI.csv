@@ -1,0 +1,17 @@
+"a","b","ARI"
+"fibro_final_snn_res.0.2","fibro_final_snn_res.0.2",1
+"fibro_final_snn_res.0.2","fibro_final_snn_res.0.3",0.820420700075932
+"fibro_final_snn_res.0.2","fibro_final_snn_res.0.4",0.663020162404694
+"fibro_final_snn_res.0.2","fibro_final_snn_res.0.5",0.60827389694015
+"fibro_final_snn_res.0.3","fibro_final_snn_res.0.2",0.820420700075932
+"fibro_final_snn_res.0.3","fibro_final_snn_res.0.3",1
+"fibro_final_snn_res.0.3","fibro_final_snn_res.0.4",0.82945880460984
+"fibro_final_snn_res.0.3","fibro_final_snn_res.0.5",0.691974437192736
+"fibro_final_snn_res.0.4","fibro_final_snn_res.0.2",0.663020162404694
+"fibro_final_snn_res.0.4","fibro_final_snn_res.0.3",0.82945880460984
+"fibro_final_snn_res.0.4","fibro_final_snn_res.0.4",1
+"fibro_final_snn_res.0.4","fibro_final_snn_res.0.5",0.828170846694173
+"fibro_final_snn_res.0.5","fibro_final_snn_res.0.2",0.60827389694015
+"fibro_final_snn_res.0.5","fibro_final_snn_res.0.3",0.691974437192736
+"fibro_final_snn_res.0.5","fibro_final_snn_res.0.4",0.828170846694173
+"fibro_final_snn_res.0.5","fibro_final_snn_res.0.5",1

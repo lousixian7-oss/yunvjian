@@ -1,0 +1,5 @@
+"AGT_status","n_cells","n_samples","mean_ECM_TGFB_score","analysis","C3_status","mean_C3_CD44_score"
+"AGT-",1020,14,0.548604921057989,"PI16 fibroblasts: AGT status",NA,NA
+"AGT+",5,3,0.786618106768187,"PI16 fibroblasts: AGT status",NA,NA
+NA,3056,29,NA,"Activated fibroblasts: C3 status","C3-",0.807674947064517
+NA,3121,23,NA,"Activated fibroblasts: C3 status","C3+",1.00541095579506
