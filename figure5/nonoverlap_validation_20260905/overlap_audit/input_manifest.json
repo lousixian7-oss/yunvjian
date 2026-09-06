@@ -1,0 +1,17 @@
+[
+  {
+    "path": "G:\\1Yunvjian\\periodontitis基因\\GEO\\数据处理\\GSE10334_series_matrix.txt.gz",
+    "bytes": 44537372,
+    "sha256": "5ed656b7eac83d80cea6a01eeec31819006ef9b5d7ef5eb12924098ebab0e4b3"
+  },
+  {
+    "path": "G:\\1Yunvjian\\periodontitis基因\\GEO\\外部数据\\GSE16134_analysis\\GSE16134_series_matrix.txt.gz",
+    "bytes": 55651434,
+    "sha256": "002e389f5635d9f4de92a93f8b65ded5b2c4baabb4f613222ce8896e24c75b97"
+  },
+  {
+    "path": "G:\\1Yunvjian\\1A玉女煎\\code\\coredata\\bulk\\patient_split.csv",
+    "bytes": 10534,
+    "sha256": "a27eebef63d63719545415c381765edaaf181758a4a7c40c1899609262a7ffe5"
+  }
+]

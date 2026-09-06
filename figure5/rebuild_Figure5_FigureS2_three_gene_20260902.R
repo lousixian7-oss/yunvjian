@@ -130,7 +130,19 @@ ext$group <- factor(ifelse(ext$Group == "PD", "PD", "NC"), levels = c("NC", "PD"
 ext$y <- as.integer(ext$group == "PD")
 ext$patient_id <- ifelse(grepl("patient [0-9]+", ext$Title, ignore.case = TRUE),
                          paste0("GSE16134_P", sub(".*patient ([0-9]+).*", "\\1", ext$Title, ignore.case = TRUE)), ext$sample_id)
-ext$probability <- predict(fit, newdata = ext, type = "response")
+# Use the Table S6 transport rule with the same training-fitted coefficients.
+train_mu <- colMeans(train[, genes, drop = FALSE])
+train_sd <- vapply(train[, genes, drop = FALSE], sd, numeric(1))
+beta_raw <- coef(fit)[genes]
+beta_z <- beta_raw * train_sd
+intercept_z <- unname(coef(fit)[1] + sum(beta_raw * train_mu))
+ext_z <- scale(as.matrix(ext[, genes, drop = FALSE]))
+stopifnot(all(is.finite(ext_z)))
+ext$probability <- plogis(intercept_z + drop(ext_z %*% beta_z))
+stopifnot(abs(auc_rank(ext$y, ext$probability) - 0.9225449515905948) < 1e-10,
+          abs(mean((ext$y - ext$probability)^2) - 0.14436794093654878) < 1e-10)
+write.csv(ext[, c("sample_id", "patient_id", "group", "y", "probability")],
+          file.path(out_dir, "GSE16134_fixed_predictions_S6.csv"), row.names = FALSE)
 cohorts <- list(Training = train, `Internal test` = test, GSE16134 = ext)
 
 metric_all <- read.csv(file.path(sensitivity_dir, "Table_AUC_cluster_bootstrap_CI.csv"), check.names = FALSE)
@@ -202,9 +214,9 @@ lab_ext$Cohort <- factor(lab_ext$Cohort, levels = levels(roc_ext$Cohort))
 lab_ext$Label <- sprintf("n=%d; NC/PD=%d/%d\nAUC %.3f (95%% CI %.3f-%.3f)", lab_ext$n, lab_ext$NC, lab_ext$PD, lab_ext$AUC, lab_ext$CI_low, lab_ext$CI_high)
 pE <- ggplot(roc_ext, aes(FPR, TPR, color = Cohort)) + geom_abline(slope = 1, intercept = 0, linetype = 2, color = "grey60") +
   geom_path(linewidth = 1.15) + geom_text(data = lab_ext, aes(.96, .07, label = Label), inherit.aes = FALSE, hjust = 1, size = 2.95) +
-  facet_wrap(~Cohort, nrow = 1, labeller = as_labeller(c(GSE16134 = "GSE16134 (primary; n=310)", GSE223924 = "GSE223924 (RNA-seq; n=20)"))) +
+  facet_wrap(~Cohort, nrow = 1, labeller = as_labeller(c(GSE16134 = "GSE16134 (overlap; n=310)", GSE223924 = "GSE223924 (RNA-seq; n=20)"))) +
   coord_equal() + scale_color_manual(values = cohort_cols, guide = "none") +
-  labs(title = "Independent external validation of the locked three-gene model", subtitle = "Primary microarray validation and exploratory RNA-seq transportability",
+  labs(title = "Additional cohort evaluation of the locked three-gene model", subtitle = "Full GSE16134 overlaps with development; RNA-seq evaluation is exploratory",
        x = "1 - Specificity", y = "Sensitivity") + theme_pub(12)
 fE <- panel_png("Figure5_E_external_ROC", pE, 8.0, 4.6)
 

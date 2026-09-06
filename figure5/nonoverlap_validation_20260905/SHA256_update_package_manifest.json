@@ -1,0 +1,170 @@
+[
+  {
+    "path": "figure5/rebuild_Figure5_FigureS2_three_gene_20260902.R",
+    "sha256": "ff6ec12e166e4992c883693167037e907d1084b3ef1c7167019deb409f1855bb"
+  },
+  {
+    "path": "figure5/README.md",
+    "sha256": "a26c9bdbf9d4005c2d46887bf9c07c0750065c88070d9de9d20b61b812e57c39"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation.R",
+    "sha256": "fa132f26c6ee3938c900bf38a78c2c2742ed54975110bded5a33ed0a2d72840b"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/prepare_nonoverlap.py",
+    "sha256": "620522241e310bbf64daa35b1900ed8495e712d022f491a3b62fd1b564d85b31"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/report_nonoverlap.py",
+    "sha256": "6a7ff796e73f6ad228b34f731d9911bdb3320148e4876d1c0a808fb9ca075325"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/figure_S10.R",
+    "sha256": "b3589530519666a48858503f9bb2358b048249c99f1c8afad1494cd15b064ee3"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/README.md",
+    "sha256": "a77283b60bde55ff45c1e566c307a8bf6df844a68dd5417dfd2f9112f555fbd9"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/FigureS10.pdf",
+    "sha256": "0fe2f9a6cc013691694c848b95b482396b75d83b5e57a7e5d51aa4df525dc554"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/FigureS10.png",
+    "sha256": "e285bc13359a37d94d90c1ffd2e1281f0043d28cf0bea9f00f109aebf5a0775b"
+  },
+  {
+    "path": "figure5/probability_reconciliation/reconcile_probabilities.R",
+    "sha256": "6a099e9143554c206c5f25121a866803fafcaaf775304d1442f600cd8e83693c"
+  },
+  {
+    "path": "figure5/probability_reconciliation/Figure5_three_gene_reconciled_20260905.pdf",
+    "sha256": "7703806c8c887458070cd7b362199e6832db3f620fdc3d6518232daec4344c0d"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/development_three_genes.csv",
+    "sha256": "24d0c320fe2c20f178413c90cd35e0bb253f3719e9dbcf12d85ddcb3bf5402ad"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/full_cohort_three_genes.csv",
+    "sha256": "9a3a2dda8eb707fa3b6c804d6d38db312993603cc500cd2d469cbb0039200bc2"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/CEL_manifest.json",
+    "sha256": "184ac5a75d723e325cc2b8a229f9a2e4e19f6f6d75bb837d7f0783aa6c7a47eb"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/three_gene_probe_mapping.csv",
+    "sha256": "6e67f792dcd014f696a5581abccc84228bea96f770c58c4cb591ac7c879f0c23"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/RMA66_three_gene_expression.csv",
+    "sha256": "747a041576653d0b0ca6f7e65c8387a30a0ad570dd377cc5c8f8937373f8b97f"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/predictions_66.csv",
+    "sha256": "1d86af99cf59b1e40d4e22236af3fb4ca6ac79ed549b612dc7124d4865ab7d8e"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/transport_parameters.csv",
+    "sha256": "8e189e07678b66a596284ef727d11084fc365ed860eec734c8f9a3e4d061a644"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/intercepts.txt",
+    "sha256": "b27c1c9bc10c665dafbbbd10262780b7d1d6bca8907166c57066674d7cca779a"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/performance_comparison.csv",
+    "sha256": "57e251bb9e7d4f6927799f871a49c85db978effdd81dddbec2572d8e87773ee8"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/patient_cluster_bootstrap_2000.csv",
+    "sha256": "28461b7da885a92a2285119eb0b7c1db524660a05f23729321225115a9f3e735"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/sensitivity_bootstrap_2000.csv",
+    "sha256": "bd8d0fa8cbf539dc8f9ff9aa37dcb431445c1728214f31d9b1d8601e4f755921"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/primary_metrics_95CI.csv",
+    "sha256": "a0985a323205bb87f5bc003b5aee446481c9a9e614748739ad2c0fa3e5b99352"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/leave_one_patient_out_influence.csv",
+    "sha256": "b4194f4851fe449f283ba50518c0f22260b4fab373683eae334e83420856f2d8"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/decision_curve.csv",
+    "sha256": "b330716d20c6c8b4a1a9d451e2e864faf64a6387ab90861a28037a380f0e7f1d"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/calibration_bins.csv",
+    "sha256": "c9ad2ae41bafe43242ad01b38ea6003f660d56951b505a5185ae9af296a32fc7"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/analysis_parameters.rds",
+    "sha256": "81249b3e0944ca85a7825da38c9fe5e46cdd5e4d62f9e4c8471265777e8ebcb0"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/sessionInfo.txt",
+    "sha256": "31277bcca85e52528f98e0d9107b28fa1bbcefbe80f11b6e33e98368e94debba"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/Nonoverlap_validation_report_ZH.md",
+    "sha256": "bfc1733eee7bcaa2418fe057b1414deeb766e6acb7bd4f16a7bbd867e5a0f8aa"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/nonoverlap_validation/independent_verification.json",
+    "sha256": "25f97f3c77e9bbb29005d0cbbf4ba751dafd9aed6e21d096cab6e63c40709157"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/audit_overlap.py",
+    "sha256": "6a0f68b44c2d58f40c669be6bee38e7729d0ae843cdb0813609ae5611ffe4d48"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/GSE10334_GSE16134_crosswalk.csv",
+    "sha256": "5ed14c7fcc969411b9c4193da2a59676e9fa54c331b8b2d7ea38c2f7028c9dff"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/GSE16134_sample_disposition.csv",
+    "sha256": "b230a48938ed7f1466369bf82a1ca3b75f110d837bcc15456e92d95a9454ba50"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/GSE16134_nonoverlapping_patient_samples.csv",
+    "sha256": "a3bc50855946ee50dba16dc12224caa9ebfa9240a40f60c3d2bb30188fd0a27c"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/audit_summary.json",
+    "sha256": "eeab711a57318bb24cc072e66bf7a06efcd46e042d18faa8549e1378108e0b5d"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/check_raw_exceptions.py",
+    "sha256": "299ecb2756e4a5b0660d400090d809deed02c6482515f5f2fe21a370d20ea0ba"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/raw_CEL_exception_check.json",
+    "sha256": "6d3a57c119b0c5f137d68a6239ae98b0ef24ca73d43a2e8ef938bc0005c6280b"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/finalize_report.py",
+    "sha256": "0963a92803594f5d0722d7eb77e9973868a26133560ba1463f2caa379703cd4d"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/input_manifest.json",
+    "sha256": "5a999cc39d9d552d97e5a1a4359e8bd4756c3da2bf3509aae8ad6d5c6da6c5fd"
+  },
+  {
+    "path": "figure5/nonoverlap_validation_20260905/overlap_audit/Overlap_audit_report_ZH.md",
+    "sha256": "47d2c864d4d5126f1e9719f2a7daea07ffae89c106966289df9cae2162ebef23"
+  },
+  {
+    "path": "figure5/probability_reconciliation/panels/Figure5_E_external_ROC.pdf",
+    "sha256": "bb3373aea3c2bae59cf873690a0e4a81c415e265c1bd77abadc162ddad659efe"
+  },
+  {
+    "path": "figure5/probability_reconciliation/panels/Figure5_E_external_ROC.png",
+    "sha256": "2df08b1cf2fd8bfb4334c7cbad10f09518eace0e8753d6aa94564066927ea588"
+  }
+]

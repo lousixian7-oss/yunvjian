@@ -1,0 +1,248 @@
+﻿GSE10334_sample,GSE16134_sample,patient,site,group,external_group,used_in_current_development,development_partition,development_patient_key,external_patient,external_site,title_key_match,all_probe_correlation,nearest_expression_sample,nearest_matches_title,second_best_correlation,max_absolute_expression_difference,match_evidence
+GSM261086,GSM404005,1,1,PD,PD,True,Training,GSE10334_P1,1,1,True,0.9984031442255695,GSM404005,True,0.9837427370475764,0.8173699999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261087,GSM404006,1,2,PD,PD,False,,,1,2,True,0.9983624276948468,GSM404006,True,0.9828478168494571,0.8671500000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261088,GSM404007,1,4,NC,NC,True,Training,GSE10334_P1,1,4,True,0.9985781460868751,GSM404007,True,0.9836553324301034,0.7934999999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261089,GSM404029,10,1,PD,PD,True,Internal test,GSE10334_P10,10,1,True,0.9985660066245873,GSM404029,True,0.9858299303780352,0.9291100000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261090,GSM404030,10,2,PD,PD,False,,,10,2,True,0.9985184620814784,GSM404030,True,0.9858684537689326,0.7749899999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261091,GSM404031,10,4,NC,NC,True,Internal test,GSE10334_P10,10,4,True,0.9986000577724877,GSM404031,True,0.9818605208298239,0.8996300000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261092,GSM404032,11,1,PD,PD,True,Training,GSE10334_P11,11,1,True,0.9985460698530426,GSM404032,True,0.9847585051357103,0.9062399999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261093,GSM404033,11,2,PD,PD,False,,,11,2,True,0.9984481383697527,GSM404033,True,0.9827071016132723,0.9036099999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261094,GSM404034,12,1,PD,PD,True,Training,GSE10334_P12,12,1,True,0.9985335650909322,GSM404034,True,0.9859359945188263,0.84016,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261095,GSM404035,12,2,PD,PD,False,,,12,2,True,0.9987016965496355,GSM404035,True,0.9867143887720278,1.0047100000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261096,GSM404036,12,4,NC,NC,True,Training,GSE10334_P12,12,4,True,0.9985754992916597,GSM404036,True,0.980134379732804,0.8618100000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261097,GSM404037,13,1,PD,PD,True,Training,GSE10334_P13,13,1,True,0.9985713871314977,GSM404037,True,0.9860178954256715,0.9368499999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261098,GSM404038,13,2,PD,PD,False,,,13,2,True,0.9985055084990553,GSM404038,True,0.9831528535736025,0.8202300000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261099,GSM404039,13,3,NC,NC,True,Training,GSE10334_P13,13,3,True,0.9985203478985116,GSM404039,True,0.984048571087078,0.9637899999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261100,GSM404040,14,1,PD,PD,True,Internal test,GSE10334_P14,14,1,True,0.9986164474556051,GSM404040,True,0.9843915847347149,0.8666900000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261101,GSM404041,14,2,PD,PD,False,,,14,2,True,0.9984387283094678,GSM404041,True,0.9739869943778465,0.9043999999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261102,GSM404042,14,3,NC,NC,True,Internal test,GSE10334_P14,14,3,True,0.9986660968353508,GSM404042,True,0.9796534458920996,0.9342200000000007,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261103,GSM404043,15,1,PD,PD,True,Internal test,GSE10334_P15,15,1,True,0.998623517907066,GSM404043,True,0.9906523419710416,0.8128000000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261104,GSM404044,15,2,PD,PD,False,,,15,2,True,0.9985543673962709,GSM404044,True,0.9902355703324405,1.3810000000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261105,GSM404045,16,1,PD,PD,True,Training,GSE10334_P16,16,1,True,0.9985624905958175,GSM404045,True,0.9918735227014667,0.88422,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261106,GSM404046,16,2,PD,PD,False,,,16,2,True,0.9986192910234395,GSM404046,True,0.9921181849350658,0.8264499999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261107,GSM404047,17,1,PD,PD,True,Training,GSE10334_P17,17,1,True,0.9984234008910227,GSM404047,True,0.9831846663138883,0.9689400000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261108,GSM404048,17,2,PD,PD,False,,,17,2,True,0.9985385897786359,GSM404048,True,0.9862499715919801,0.86294,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261109,GSM404049,17,4,NC,NC,True,Training,GSE10334_P17,17,4,True,0.9986093008892172,GSM404049,True,0.9812051983673327,0.8975,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261110,GSM404050,18,1,PD,PD,True,Training,GSE10334_P18,18,1,True,0.9985476323338326,GSM404050,True,0.9830551632653433,0.8464200000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261111,GSM404051,18,2,PD,PD,False,,,18,2,True,0.9986228774744892,GSM404051,True,0.9820127204665513,0.8192900000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261112,GSM404052,18,3,PD,PD,False,,,18,3,True,0.9985253843667439,GSM404052,True,0.9861566316116978,0.8147799999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261113,GSM404053,18,4,NC,NC,True,Training,GSE10334_P18,18,4,True,0.9986418097531198,GSM404053,True,0.98307947387271,0.8986000000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261114,GSM404008,2,1,PD,PD,True,Training,GSE10334_P2,2,1,True,0.99864732272412,GSM404008,True,0.9862768379434187,0.8740199999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261115,GSM404009,2,2,PD,PD,False,,,2,2,True,0.9985283555451031,GSM404009,True,0.9861060782052871,0.9288999999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261116,GSM404010,2,4,NC,NC,True,Training,GSE10334_P2,2,4,True,0.9985268040146984,GSM404010,True,0.9849918657116854,0.78721,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261117,GSM404054,20,1,NC,NC,True,Training,GSE10334_P20,20,1,True,0.9985887488346321,GSM404054,True,0.9828561535434499,0.7703799999999994,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261118,GSM404055,20,2,PD,PD,True,Training,GSE10334_P20,20,2,True,0.9985418676343553,GSM404055,True,0.9897569200766723,0.8759200000000007,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261119,GSM404056,20,3,PD,PD,False,,,20,3,True,0.9985363939164001,GSM404056,True,0.9897188948932626,0.8580000000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261120,GSM404057,21,1,PD,PD,True,Training,GSE10334_P21,21,1,True,0.9983717075955127,GSM404057,True,0.9488319466704476,0.94584,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261121,GSM404058,21,2,PD,PD,False,,,21,2,True,0.9986025741294465,GSM404058,True,0.9803755268955952,0.7837999999999994,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261122,GSM404059,21,3,NC,NC,True,Training,GSE10334_P21,21,3,True,0.998586807524851,GSM404059,True,0.9721126312288225,0.8581999999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261123,GSM404060,22,1,PD,PD,True,Training,GSE10334_P22,22,1,True,0.9986244455559157,GSM404060,True,0.9845360472726825,0.85297,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261124,GSM404061,22,2,PD,PD,False,,,22,2,True,0.9986817019353317,GSM404061,True,0.986895640104384,0.8511300000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261125,GSM404062,23,1,PD,PD,True,Internal test,GSE10334_P23,23,1,True,0.9987062798360944,GSM404062,True,0.9893946113826804,0.8659500000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261126,GSM404063,23,2,PD,PD,False,,,23,2,True,0.9986905484296352,GSM404063,True,0.9893699809989376,0.8163199999999993,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261127,GSM404064,23,4,NC,NC,True,Internal test,GSE10334_P23,23,4,True,0.998375521922368,GSM404064,True,0.9808513650619722,0.8332499999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261128,GSM404065,24,1,PD,PD,True,Training,GSE10334_P24,24,1,True,0.9986577953345087,GSM404065,True,0.9930397608214514,0.9973299999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261129,GSM404066,24,2,PD,PD,False,,,24,2,True,0.9986301720381594,GSM404066,True,0.9929100622346091,0.9043400000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261130,GSM404067,25,1,PD,PD,True,Training,GSE10334_P25,25,1,True,0.9984482934199728,GSM404067,True,0.9835492504579706,0.9316800000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261131,GSM404068,25,2,PD,PD,False,,,25,2,True,0.9983378680979142,GSM404068,True,0.9864087412134556,0.8344399999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261132,GSM404069,26,1,PD,PD,True,Training,GSE10334_P26,26,1,True,0.9986434732790064,GSM404069,True,0.9893193300234274,0.8184100000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261133,GSM404070,26,2,PD,PD,False,,,26,2,True,0.9985412500189033,GSM404070,True,0.9889164748701011,0.9654100000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261134,GSM404071,26,4,NC,NC,True,Training,GSE10334_P26,26,4,True,0.9983974615830806,GSM404071,True,0.9804298488216144,0.8149199999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261135,GSM404072,27,1,PD,PD,True,Training,GSE10334_P27,27,1,True,0.9985227642278662,GSM404072,True,0.985186752916367,0.8178999999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261136,GSM404073,27,2,PD,PD,False,,,27,2,True,0.9986710608519469,GSM404073,True,0.9857997499243446,0.7731900000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261137,GSM404074,27,3,NC,NC,True,Training,GSE10334_P27,27,3,True,0.9985598251657533,GSM404074,True,0.9863432330565015,0.88028,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261138,GSM404075,28,1,NC,NC,True,Internal test,GSE10334_P28,28,1,True,0.9984907408714639,GSM404075,True,0.9824746183935287,0.8203900000000006,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261139,GSM404076,28,2,PD,PD,True,Internal test,GSE10334_P28,28,2,True,0.9985661104757639,GSM404076,True,0.9890248872109629,0.9466099999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261140,GSM404077,28,3,PD,PD,False,,,28,3,True,0.9985215446061623,GSM404077,True,0.9890030548370082,0.8540600000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261141,GSM404078,29,1,PD,PD,True,Internal test,GSE10334_P29,29,1,True,0.9984144795480866,GSM404078,True,0.989331281871363,0.9214500000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261142,GSM404079,29,2,PD,PD,False,,,29,2,True,0.9982699200706185,GSM404079,True,0.9893396512616608,1.0350099999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261143,GSM404080,29,3,NC,NC,True,Internal test,GSE10334_P29,29,3,True,0.9984179145981465,GSM404080,True,0.9856054831420124,0.7706200000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261144,GSM404011,3,1,PD,PD,True,Training,GSE10334_P3,3,1,True,0.9983867460186806,GSM404011,True,0.9869153804796087,0.8881699999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261145,GSM404012,3,2,PD,PD,False,,,3,2,True,0.9985618784961438,GSM404012,True,0.9846109205539608,0.8191800000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261146,GSM404013,3,3,NC,NC,True,Training,GSE10334_P3,3,3,True,0.9985598503786944,GSM404013,True,0.9868307442426353,0.7855099999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261147,GSM404081,30,1,PD,PD,True,Internal test,GSE10334_P30,30,1,True,0.9984840017662197,GSM404081,True,0.980511745512629,0.9213900000000006,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261148,GSM404082,30,2,PD,PD,False,,,30,2,True,0.9984438185285296,GSM404082,True,0.9847518808123805,0.8588000000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261149,GSM404083,31,1,PD,PD,True,Training,GSE10334_P31,31,1,True,0.9984828028245024,GSM404083,True,0.9863820116627476,0.9213800000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261150,GSM404084,31,2,PD,PD,False,,,31,2,True,0.9985622373176996,GSM404084,True,0.9881797967559316,0.9473599999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261151,GSM404085,31,3,NC,NC,True,Training,GSE10334_P31,31,3,True,0.9985555869270872,GSM404085,True,0.9868513268401685,0.8497099999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261152,GSM404086,32,1,PD,PD,True,Training,GSE10334_P32,32,1,True,0.9982161316552745,GSM404086,True,0.985439662561495,0.8053299999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261153,GSM404087,32,2,PD,PD,False,,,32,2,True,0.998377260763304,GSM404087,True,0.9912814027921222,0.7961600000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261154,GSM404088,32,4,NC,NC,True,Training,GSE10334_P32,32,4,True,0.9983364722513216,GSM404088,True,0.9911479585162893,0.8598699999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261155,GSM404089,33,1,PD,PD,True,Training,GSE10334_P33,33,1,True,0.9985257630804367,GSM404089,True,0.985654414792506,0.8622399999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261156,GSM404090,33,2,PD,PD,False,,,33,2,True,0.9984915104142807,GSM404090,True,0.9856559591880734,0.7817599999999993,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261157,GSM404091,34,1,PD,PD,True,Training,GSE10334_P34,34,1,True,0.9985160033386572,GSM404091,True,0.986641648195578,0.8866699999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261158,GSM404092,34,2,PD,PD,False,,,34,2,True,0.9985395012560521,GSM404092,True,0.9869646013266684,0.8412199999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261159,GSM404093,34,3,NC,NC,True,Training,GSE10334_P34,34,3,True,0.9985478339701648,GSM404093,True,0.98112416648015,0.8654399999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261160,GSM404094,35,1,PD,PD,True,Internal test,GSE10334_P35,35,1,True,0.9985437482465677,GSM404094,True,0.9903579442468227,0.8019700000000007,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261161,GSM404095,35,2,PD,PD,False,,,35,2,True,0.9985072010018244,GSM404095,True,0.9900615373188042,0.8564599999999993,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261162,GSM404096,35,4,NC,NC,True,Internal test,GSE10334_P35,35,4,True,0.9984080165194887,GSM404096,True,0.9857503181268775,0.8730500000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261163,GSM404097,36,1,PD,PD,True,Training,GSE10334_P36,36,1,True,0.9983304082554335,GSM404097,True,0.9871268643096656,0.8964799999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261164,GSM404098,36,2,PD,PD,False,,,36,2,True,0.9982964798570013,GSM404098,True,0.9868814857094802,0.8159000000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261165,GSM404099,36,3,NC,NC,True,Training,GSE10334_P36,36,3,True,0.9984279206286877,GSM404099,True,0.9789920800838723,0.8873000000000006,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261166,GSM404100,37,1,PD,PD,True,Internal test,GSE10334_P37,37,1,True,0.9983429412832356,GSM404100,True,0.9831025019384801,0.8866899999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261167,GSM404101,37,2,PD,PD,False,,,37,2,True,0.9983172636087223,GSM404101,True,0.9851672116088611,0.90334,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261168,GSM404102,37,3,NC,NC,True,Internal test,GSE10334_P37,37,3,True,0.9985596482134577,GSM404102,True,0.9783482210626839,1.0276899999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261169,GSM404103,38,1,PD,PD,True,Internal test,GSE10334_P38,38,1,True,0.998423580573498,GSM404103,True,0.9832127596379406,0.8793100000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261170,GSM404104,38,2,PD,PD,False,,,38,2,True,0.9984119021581506,GSM404104,True,0.9831115932934743,0.8573999999999993,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261171,GSM404105,38,3,NC,NC,True,Internal test,GSE10334_P38,38,3,True,0.9984937189019386,GSM404105,True,0.9823964963097461,0.8600599999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261172,GSM404106,39,1,PD,PD,True,Training,GSE10334_P39,39,1,True,0.9984753824180075,GSM404106,True,0.9901218409831437,0.8178599999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261173,GSM404107,39,2,PD,PD,False,,,39,2,True,0.998449570325882,GSM404107,True,0.9900575829722124,0.8168800000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261174,GSM404108,39,3,NC,NC,True,Training,GSE10334_P39,39,3,True,0.998381174754455,GSM404108,True,0.9870960504280416,0.90137,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261175,GSM404014,4,1,PD,PD,True,Internal test,GSE10334_P4,4,1,True,0.998592119821265,GSM404014,True,0.990667637652412,0.8773299999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261176,GSM404015,4,2,PD,PD,False,,,4,2,True,0.998652948885215,GSM404015,True,0.9905999328748294,0.8751499999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261177,GSM404016,4,3,NC,NC,True,Internal test,GSE10334_P4,4,3,True,0.9985624130797004,GSM404016,True,0.9836852937882498,0.8223799999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261178,GSM404109,40,1,PD,PD,True,Training,GSE10334_P40,40,1,True,0.9985343998344122,GSM404109,True,0.9899208297022122,0.8960500000000007,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261179,GSM404110,40,2,PD,PD,False,,,40,2,True,0.9986807226235916,GSM404110,True,0.9901636955787081,0.8190599999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261180,GSM404111,41,1,PD,PD,True,Internal test,GSE10334_P41,41,1,True,0.9986224159497473,GSM404111,True,0.9879936438044837,0.9082299999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261181,GSM404112,41,2,PD,PD,False,,,41,2,True,0.9982566090730188,GSM404112,True,0.9830255103001995,0.9710399999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261182,GSM404113,42,1,PD,PD,True,Internal test,GSE10334_P42,42,1,True,0.9983904737458955,GSM404113,True,0.9851055785618769,1.11144,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261183,GSM404114,42,2,PD,PD,False,,,42,2,True,0.9983980822870286,GSM404114,True,0.9833137798354924,0.8177599999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261184,GSM404115,42,3,NC,NC,True,Internal test,GSE10334_P42,42,3,True,0.9986449301448039,GSM404115,True,0.9846277035216645,0.9023500000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261185,,42,4,PD,PD,False,,,42,1,False,0.9883906658900625,GSM404113,False,0.9816845545991435,5.027850000000001,unresolved_no_identity_claim
+GSM261186,,43,1,PD,NC,True,Training,GSE10334_P43,43,4,False,0.9877190320911785,GSM404117,False,0.9828996437151036,4.39694,unresolved_no_identity_claim
+GSM261187,GSM404116,43,2,PD,PD,False,,,43,2,True,0.9983066529539452,GSM404116,True,0.9852820472799748,0.9149199999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261188,GSM404117,43,4,NC,NC,True,Training,GSE10334_P43,43,4,True,0.9983796885513938,GSM404117,True,0.9824424065249755,0.8919800000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261189,GSM404118,44,1,PD,PD,True,Training,GSE10334_P44,44,1,True,0.9986505769617245,GSM404118,True,0.987915679250872,0.8253899999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261190,GSM404119,44,2,PD,PD,False,,,44,2,True,0.998711234753845,GSM404119,True,0.985544948852109,0.7917399999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261191,GSM404120,45,1,PD,PD,True,Training,GSE10334_P45,45,1,True,0.9986327229414563,GSM404120,True,0.9914843771292338,0.8176800000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261192,GSM404121,45,2,PD,PD,False,,,45,2,True,0.9986443280096261,GSM404121,True,0.9914565421627852,0.9862500000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261193,GSM404122,45,3,NC,NC,True,Training,GSE10334_P45,45,3,True,0.9985775870397531,GSM404122,True,0.981520810345031,0.8228,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261194,GSM404123,46,1,PD,PD,True,Internal test,GSE10334_P46,46,1,True,0.998701007050303,GSM404123,True,0.9924735856196074,0.8468400000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261195,GSM404124,46,2,PD,PD,False,,,46,2,True,0.9987224629165298,GSM404124,True,0.9923524989051102,0.7927499999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261196,GSM404125,46,3,NC,NC,True,Internal test,GSE10334_P46,46,3,True,0.9987429872869013,GSM404125,True,0.9877717785777306,0.7786999999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261197,GSM404126,47,1,PD,PD,True,Training,GSE10334_P47,47,1,True,0.9986764128694584,GSM404126,True,0.9920615354777474,0.8823299999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261198,GSM404127,47,2,PD,PD,False,,,47,2,True,0.9987613917934282,GSM404127,True,0.992128608701211,0.7914500000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261199,GSM404128,47,3,NC,NC,True,Training,GSE10334_P47,47,3,True,0.9985869760704404,GSM404128,True,0.9804316229299631,0.8244000000000007,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261200,GSM404129,48,1,PD,PD,True,Training,GSE10334_P48,48,1,True,0.9985569659788309,GSM404129,True,0.9897032736326095,0.9256900000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261201,GSM404130,48,2,PD,PD,False,,,48,2,True,0.9986454635591903,GSM404130,True,0.9899889976634121,0.8350200000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261202,GSM404131,48,3,NC,NC,True,Training,GSE10334_P48,48,3,True,0.9985130558590223,GSM404131,True,0.9757093481265338,0.9742599999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261203,GSM404132,49,1,PD,PD,True,Training,GSE10334_P49,49,1,True,0.998564625171892,GSM404132,True,0.9876029037188345,0.798,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261204,GSM404133,49,2,PD,PD,False,,,49,2,True,0.9986182048322018,GSM404133,True,0.9874807966909488,0.8981800000000009,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261205,GSM404134,49,3,NC,NC,True,Training,GSE10334_P49,49,3,True,0.9986043349567675,GSM404134,True,0.9763310641546392,0.8340300000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261206,GSM404017,5,1,NC,NC,True,Training,GSE10334_P5,5,1,True,0.9986164186983896,GSM404017,True,0.9805765293011821,0.8066299999999993,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261207,GSM404018,5,2,PD,PD,True,Training,GSE10334_P5,5,2,True,0.9982882660203287,GSM404018,True,0.98167322220138,0.87317,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261208,GSM404019,5,3,PD,PD,False,,,5,3,True,0.9985969555074784,GSM404019,True,0.9874103301317526,0.8602800000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261209,GSM404135,50,1,PD,PD,True,Internal test,GSE10334_P50,50,1,True,0.998617113779537,GSM404135,True,0.9867207698498284,0.8033700000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261210,GSM404136,50,2,PD,PD,False,,,50,2,True,0.9983044721939706,GSM404136,True,0.9738043515314544,0.9005999999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261211,GSM404137,52,1,PD,PD,True,Training,GSE10334_P52,52,1,True,0.9985474717799495,GSM404137,True,0.9948413843402659,0.8618800000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261212,GSM404138,52,2,PD,PD,False,,,52,2,True,0.9985306706029841,GSM404138,True,0.9946101023337339,0.8341000000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261213,GSM404139,53,2,PD,PD,True,Internal test,GSE10334_P53,53,2,True,0.9985133671196914,GSM404139,True,0.9870839938269151,0.8861499999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261214,GSM404140,53,3,PD,PD,False,,,53,3,True,0.9985169710528825,GSM404140,True,0.9800167230791131,0.9374200000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261215,GSM404141,54,1,PD,PD,True,Training,GSE10334_P54,54,1,True,0.9984839673430776,GSM404141,True,0.9917872354683365,1.00934,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261216,GSM404142,54,2,PD,PD,False,,,54,2,True,0.9985218831350487,GSM404142,True,0.9919039138168251,0.8564100000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261217,GSM404143,54,3,NC,NC,True,Training,GSE10334_P54,54,3,True,0.9987259165975721,GSM404143,True,0.9848968117719697,0.8962500000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261218,GSM404144,55,1,PD,PD,True,Training,GSE10334_P55,55,1,True,0.9984673849688024,GSM404144,True,0.975888031138442,0.8288199999999994,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261219,GSM404145,55,2,PD,PD,False,,,55,2,True,0.9986569132304587,GSM404145,True,0.9871762037840436,0.78824,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261220,GSM404146,55,3,NC,NC,True,Training,GSE10334_P55,55,3,True,0.9985461922335646,GSM404146,True,0.9803724674007397,0.8676700000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261221,GSM404147,56,1,PD,PD,True,Internal test,GSE10334_P56,56,1,True,0.9985341161112677,GSM404147,True,0.9906992179163951,0.7907500000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261222,GSM404148,56,2,PD,PD,False,,,56,2,True,0.9984839337184163,GSM404148,True,0.9902835664065651,0.9434700000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261223,GSM404149,56,4,NC,NC,True,Internal test,GSE10334_P56,56,4,True,0.9985169850448966,GSM404149,True,0.9810305089861978,0.8729200000000006,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261224,GSM404150,58,1,PD,PD,True,Training,GSE10334_P58,58,1,True,0.9984606503552936,GSM404150,True,0.9901419358797655,0.8628200000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261225,GSM404151,58,2,PD,PD,False,,,58,2,True,0.9985963801019543,GSM404151,True,0.9907006804576115,0.8200000000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261226,GSM404152,58,3,NC,NC,True,Training,GSE10334_P58,58,3,True,0.9985363049314324,GSM404152,True,0.9736183489359866,0.8240300000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261227,GSM404153,59,1,PD,PD,True,Training,GSE10334_P59,59,1,True,0.9985941861673957,GSM404153,True,0.9935947048312705,0.9996900000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261228,GSM404154,59,2,PD,PD,False,,,59,2,True,0.9986093446555723,GSM404154,True,0.9894699254644171,0.8187800000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261229,GSM404155,59,4,NC,NC,True,Training,GSE10334_P59,59,4,True,0.998592881278696,GSM404155,True,0.9934327397871286,0.9027099999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261230,GSM404156,60,1,PD,PD,True,Training,GSE10334_P60,60,1,True,0.9985968524422153,GSM404156,True,0.9891635003821079,0.8544,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261231,GSM404157,60,2,PD,PD,False,,,60,2,True,0.9985592673448682,GSM404157,True,0.9888855388625646,0.8815100000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261232,GSM404158,61,1,PD,PD,True,Training,GSE10334_P61,61,1,True,0.9986306613405175,GSM404158,True,0.9796298628659474,0.9630199999999993,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261233,GSM404159,61,2,PD,PD,False,,,61,2,True,0.9986164650145846,GSM404159,True,0.9894658236458256,0.7794799999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261234,GSM404160,61,4,NC,NC,True,Training,GSE10334_P61,61,4,True,0.9985177245718359,GSM404160,True,0.9807782596991189,0.9380100000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261235,GSM404161,62,1,PD,PD,True,Training,GSE10334_P62,62,1,True,0.9984397418759641,GSM404161,True,0.9893750197598375,0.9366200000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261236,GSM404162,62,2,PD,PD,False,,,62,2,True,0.9984082674764094,GSM404162,True,0.9891838048596596,0.9247199999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261237,GSM404163,62,3,NC,NC,True,Training,GSE10334_P62,62,3,True,0.9986320288376148,GSM404163,True,0.9781100475822213,0.8313700000000006,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261238,GSM404164,63,1,PD,PD,True,Internal test,GSE10334_P63,63,1,True,0.9986377609548355,GSM404164,True,0.9869360333468232,0.8025799999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261239,GSM404165,63,2,PD,PD,False,,,63,2,True,0.998609310356054,GSM404165,True,0.9838314328949442,0.8354299999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261240,GSM404166,63,3,NC,NC,True,Internal test,GSE10334_P63,63,3,True,0.9986489862186058,GSM404166,True,0.9858809184436603,1.0341300000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261241,GSM404167,64,1,PD,PD,True,Training,GSE10334_P64,64,1,True,0.9983096798657223,GSM404167,True,0.969361982792179,0.86036,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261242,GSM404168,64,2,PD,PD,False,,,64,2,True,0.998479520934814,GSM404168,True,0.9827284569983169,0.9878499999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261243,GSM404169,64,3,NC,NC,True,Training,GSE10334_P64,64,3,True,0.9982524425583402,GSM404169,True,0.9597760884985476,0.82585,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261244,GSM404170,65,1,PD,PD,True,Internal test,GSE10334_P65,65,1,True,0.9985591493875173,GSM404170,True,0.9807316439163013,0.92462,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261245,GSM404171,65,2,PD,PD,False,,,65,2,True,0.9986456169327987,GSM404171,True,0.9829187499932942,0.9091200000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261246,GSM404172,65,4,NC,NC,True,Internal test,GSE10334_P65,65,4,True,0.9987134604050297,GSM404172,True,0.9813199260239786,0.9095700000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261247,GSM404173,66,1,PD,PD,True,Training,GSE10334_P66,66,1,True,0.998625110455907,GSM404173,True,0.9938180849581902,0.8705500000000006,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261248,GSM404174,66,2,PD,PD,False,,,66,2,True,0.9986572573302308,GSM404174,True,0.9937761823254103,0.9077500000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261249,GSM404175,66,3,NC,NC,True,Training,GSE10334_P66,66,3,True,0.9985294166341064,GSM404175,True,0.976677883392679,0.8569199999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261250,GSM404176,67,1,PD,PD,True,Internal test,GSE10334_P67,67,1,True,0.9985516155696044,GSM404176,True,0.9876141720161018,0.8952999999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261251,GSM404177,67,2,PD,PD,False,,,67,2,True,0.9984705267451159,GSM404177,True,0.9875846947916314,0.9131199999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261252,GSM404178,68,1,PD,PD,True,Training,GSE10334_P68,68,1,True,0.9984978243947188,GSM404178,True,0.9871409551227163,0.88157,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261253,GSM404179,68,2,PD,PD,False,,,68,2,True,0.9984822610111949,GSM404179,True,0.9870452055847704,0.9037199999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261254,GSM404180,68,3,NC,NC,True,Training,GSE10334_P68,68,3,True,0.9984918391876717,GSM404180,True,0.9845308353415723,0.8317200000000007,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261255,GSM404181,69,1,PD,PD,True,Internal test,GSE10334_P69,69,1,True,0.9985495646114343,GSM404181,True,0.9857472464471823,0.8557500000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261256,GSM404182,69,2,PD,PD,False,,,69,2,True,0.9979549428148029,GSM404182,True,0.95434218390802,0.8875100000000007,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261257,GSM404183,69,3,NC,NC,True,Internal test,GSE10334_P69,69,3,True,0.9986459672202056,GSM404183,True,0.9826156427415957,0.8290800000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261258,GSM404020,7,1,PD,PD,True,Training,GSE10334_P7,7,1,True,0.9985497285228884,GSM404020,True,0.9911324100057124,0.84964,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261259,GSM404021,7,2,PD,PD,False,,,7,2,True,0.9985881226799553,GSM404021,True,0.9911271639390447,0.7885400000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261260,GSM404022,7,3,PD,PD,False,,,7,3,True,0.9985039671468576,GSM404022,True,0.990228987511708,0.7949299999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261261,GSM404184,70,1,PD,PD,True,Training,GSE10334_P70,70,1,True,0.9985733049214935,GSM404184,True,0.986582425975897,0.8196500000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261262,GSM404185,70,2,PD,PD,False,,,70,2,True,0.9987742884576487,GSM404185,True,0.9879727168883895,0.9202500000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261263,GSM404186,71,1,PD,PD,True,Training,GSE10334_P71,71,1,True,0.9987724649416355,GSM404186,True,0.9922234423900982,0.8098600000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261264,GSM404187,71,2,PD,PD,False,,,71,2,True,0.9987104062591979,GSM404187,True,0.9921392583198224,0.8130699999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261265,GSM404188,72,1,PD,PD,True,Training,GSE10334_P72,72,1,True,0.998539499416773,GSM404188,True,0.9922891125936513,0.8131699999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261266,GSM404189,72,2,NC,PD,True,Training,GSE10334_P72,72,2,True,0.9985189665910223,GSM404189,True,0.9923044528580731,0.7984800000000005,unresolved_no_identity_claim
+GSM261267,GSM404190,72,3,PD,NC,False,,,72,3,True,0.9985415451428997,GSM404190,True,0.982213995957566,0.74613,unresolved_no_identity_claim
+GSM261268,GSM404191,73,1,PD,PD,True,Internal test,GSE10334_P73,73,1,True,0.9986644193421161,GSM404191,True,0.9875429150973689,0.8200799999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261269,GSM404192,73,2,PD,PD,False,,,73,2,True,0.9983202496967554,GSM404192,True,0.9810166100512931,0.8220200000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261270,GSM404193,74,1,PD,PD,True,Training,GSE10334_P74,74,1,True,0.9983987544044236,GSM404193,True,0.9711805522609672,0.9324200000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261271,GSM404194,74,2,PD,PD,False,,,74,2,True,0.9986252632239438,GSM404194,True,0.9750901823179116,0.8737299999999992,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261272,GSM404195,74,3,NC,NC,True,Training,GSE10334_P74,74,3,True,0.9987174579033596,GSM404195,True,0.9800595697346381,1.1341299999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261273,GSM404196,75,1,PD,PD,True,Internal test,GSE10334_P75,75,1,True,0.9987341967245403,GSM404196,True,0.9888038083140924,0.8733499999999994,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261274,GSM404197,75,2,PD,PD,False,,,75,2,True,0.9987366808444937,GSM404197,True,0.9889634585189445,0.9388099999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261275,GSM404198,76,1,PD,PD,True,Internal test,GSE10334_P76,76,1,True,0.9986921973554806,GSM404198,True,0.9846276421901866,0.8551900000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261276,GSM404199,76,2,PD,PD,False,,,76,2,True,0.9987675995890448,GSM404199,True,0.9849559759472346,0.84415,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261277,GSM404200,76,3,NC,NC,True,Internal test,GSE10334_P76,76,3,True,0.9986872220622198,GSM404200,True,0.9809686860533715,0.8304299999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261278,GSM404201,77,1,PD,PD,True,Training,GSE10334_P77,77,1,True,0.9980584083991583,GSM404201,True,0.956127789867425,0.8817800000000009,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261279,GSM404202,77,2,PD,PD,False,,,77,2,True,0.9978448913823718,GSM404202,True,0.956467769828737,0.8981699999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261280,GSM404203,77,3,NC,NC,True,Training,GSE10334_P77,77,3,True,0.9987173267980615,GSM404203,True,0.9750296715226434,0.9301500000000003,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261281,GSM404204,78,1,PD,PD,True,Training,GSE10334_P78,78,1,True,0.9987002822476242,GSM404204,True,0.9870589979153519,0.8021400000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261282,GSM404205,78,2,PD,PD,False,,,78,2,True,0.9986337087980653,GSM404205,True,0.9738949511760839,0.7816599999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261283,GSM404206,78,3,NC,NC,True,Training,GSE10334_P78,78,3,True,0.9986887505369143,GSM404206,True,0.9838308973725434,0.9633200000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261284,GSM404023,8,1,PD,PD,True,Training,GSE10334_P8,8,1,True,0.9985832378292465,GSM404023,True,0.9881575675970429,0.8428499999999994,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261285,GSM404024,8,2,PD,PD,False,,,8,2,True,0.9986039741230621,GSM404024,True,0.988281965493212,0.8127700000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261286,GSM404025,8,3,NC,NC,True,Training,GSE10334_P8,8,3,True,0.9985405097077216,GSM404025,True,0.9828117086762886,0.8686999999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261287,GSM404207,80,1,PD,PD,True,Training,GSE10334_P80,80,1,True,0.9982606889502189,GSM404207,True,0.9708434273839728,0.8639700000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261288,GSM404208,80,2,PD,PD,False,,,80,2,True,0.9985738575893176,GSM404208,True,0.9874894236607559,0.8552299999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261289,GSM404209,81,1,PD,PD,True,Training,GSE10334_P81,81,1,True,0.9987772763987633,GSM404209,True,0.9855835702276101,0.8562099999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261290,GSM404210,81,2,PD,PD,False,,,81,2,True,0.9987462935509717,GSM404210,True,0.9854433467279268,0.8336200000000007,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261291,GSM404211,82,1,PD,PD,True,Training,GSE10334_P82,82,1,True,0.9983942847873983,GSM404211,True,0.9838209627845375,0.9340399999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261292,GSM404212,82,2,PD,PD,False,,,82,2,True,0.9985596754555702,GSM404212,True,0.9840515475030004,0.8032599999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261293,,82,3,NC,NC,True,Training,GSE10334_P82,92,3,False,0.9839080706907081,GSM404239,False,0.9834639091959867,7.81803,unresolved_no_identity_claim
+GSM261294,GSM404213,83,1,PD,PD,True,Training,GSE10334_P83,83,1,True,0.9986350469886572,GSM404213,True,0.9740590994179456,0.8514200000000001,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261295,GSM404214,83,2,PD,PD,False,,,83,2,True,0.9983567181029429,GSM404214,True,0.9813417746575706,0.77135,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261296,GSM404215,83,3,NC,NC,True,Training,GSE10334_P83,83,3,True,0.9986634392691074,GSM404215,True,0.9840455181978427,0.8571499999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261297,GSM404216,84,1,PD,PD,True,Training,GSE10334_P84,84,1,True,0.9986943914563834,GSM404216,True,0.9824064446615653,0.7888299999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261298,GSM404217,84,2,PD,PD,False,,,84,2,True,0.9985839565256238,GSM404217,True,0.9822399457987557,0.8737599999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261299,GSM404218,85,1,PD,PD,True,Training,GSE10334_P85,85,1,True,0.9986133123591497,GSM404218,True,0.9928678983633483,1.08784,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261300,GSM404219,85,2,PD,PD,False,,,85,2,True,0.9986645417747269,GSM404219,True,0.9928866247417338,0.8746299999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261301,GSM404220,86,1,PD,PD,True,Internal test,GSE10334_P86,86,1,True,0.9986511905505405,GSM404220,True,0.9875486431581885,0.8690300000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261302,GSM404221,86,2,PD,PD,False,,,86,2,True,0.9985822515313253,GSM404221,True,0.9774487451026337,0.8834599999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261303,GSM404222,86,3,NC,NC,True,Internal test,GSE10334_P86,86,3,True,0.9987034749290511,GSM404222,True,0.9814284876379369,0.9053999999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261304,GSM404223,87,1,PD,PD,True,Training,GSE10334_P87,87,1,True,0.998597997111067,GSM404223,True,0.9880467837633811,0.9125199999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261305,GSM404224,87,2,PD,PD,False,,,87,2,True,0.9985161921296221,GSM404224,True,0.9880255240623362,0.7667999999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261306,GSM404225,87,3,NC,NC,True,Training,GSE10334_P87,87,3,True,0.9987163162525843,GSM404225,True,0.9837103212978853,0.7869700000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261307,GSM404226,88,1,PD,PD,True,Training,GSE10334_P88,88,1,True,0.9987454777927924,GSM404226,True,0.9888505007393482,0.8715999999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261308,GSM404227,88,2,PD,PD,False,,,88,2,True,0.9986836480768299,GSM404227,True,0.9861530400100302,0.8090599999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261309,GSM404228,88,3,NC,NC,True,Training,GSE10334_P88,88,3,True,0.9986562198279905,GSM404228,True,0.9777778644945869,0.88774,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261310,GSM404229,89,1,PD,PD,True,Training,GSE10334_P89,89,1,True,0.9987544335529653,GSM404229,True,0.9883600096084307,0.8437400000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261311,GSM404230,89,2,PD,PD,False,,,89,2,True,0.9987351904834683,GSM404230,True,0.9881054563477133,0.8630899999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261312,GSM404026,9,1,PD,PD,True,Training,GSE10334_P9,9,1,True,0.998591814858205,GSM404026,True,0.9912777481521683,0.81792,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261313,GSM404027,9,2,PD,PD,False,,,9,2,True,0.9985586085858283,GSM404027,True,0.991245412875059,0.9111900000000004,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261314,GSM404028,9,3,NC,NC,True,Training,GSE10334_P9,9,3,True,0.9984084021398376,GSM404028,True,0.985779967280528,0.8117599999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261315,GSM404231,90,1,PD,PD,True,Training,GSE10334_P90,90,1,True,0.9985621834574139,GSM404231,True,0.9859140037748559,0.84009,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261316,GSM404232,90,2,PD,PD,False,,,90,2,True,0.9985678927857572,GSM404232,True,0.986414916339013,0.78206,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261317,GSM404233,90,3,NC,NC,True,Training,GSE10334_P90,90,3,True,0.9986926232869371,GSM404233,True,0.9849388141148593,0.9014199999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261318,GSM404234,91,1,PD,PD,True,Training,GSE10334_P91,91,1,True,0.9985860077845974,GSM404234,True,0.9855824596753717,0.8165499999999994,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261319,GSM404235,91,2,PD,PD,False,,,91,2,True,0.9986553834786668,GSM404235,True,0.987716823010809,0.7886199999999999,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261320,GSM404236,91,3,NC,NC,True,Training,GSE10334_P91,91,3,True,0.9986689782748825,GSM404236,True,0.9843868254708951,0.8723199999999993,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261321,GSM404237,92,1,PD,PD,True,Training,GSE10334_P92,92,1,True,0.9986091416368609,GSM404237,True,0.9851575681448763,0.8202999999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261322,GSM404238,92,2,PD,PD,False,,,92,2,True,0.9986524296502581,GSM404238,True,0.9861853393132338,0.8158399999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261323,GSM404239,92,3,NC,NC,True,Training,GSE10334_P92,92,3,True,0.9987110415862093,GSM404239,True,0.9845508722649561,0.8424899999999997,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261324,GSM404240,93,1,PD,PD,True,Internal test,GSE10334_P93,93,1,True,0.9987331484839584,GSM404240,True,0.992283966963533,0.7838399999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261325,GSM404241,93,2,PD,PD,False,,,93,2,True,0.9986957491726239,GSM404241,True,0.9922592938788262,0.8629600000000002,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261326,GSM404242,93,3,NC,NC,True,Internal test,GSE10334_P93,93,3,True,0.9987521519512964,GSM404242,True,0.9851648888765832,0.8699900000000005,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261327,GSM404243,94,1,PD,PD,True,Training,GSE10334_P94,94,1,True,0.9987673993516814,GSM404243,True,0.9923327129656536,0.80905,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261328,GSM404244,94,2,PD,PD,False,,,94,2,True,0.9987292968489996,GSM404244,True,0.9922917012464919,0.9148999999999994,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261329,GSM404245,94,3,NC,NC,True,Training,GSE10334_P94,94,3,True,0.9987104362461173,GSM404245,True,0.9812533703426219,1.0859299999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261330,GSM404246,95,1,PD,PD,True,Internal test,GSE10334_P95,95,1,True,0.9987506019062165,GSM404246,True,0.9909081462385321,0.7867299999999995,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261331,GSM404247,95,2,PD,PD,False,,,95,2,True,0.9987776524972382,GSM404247,True,0.9909731899390752,0.8501599999999998,matching_patient_site_phenotype_and_all_probe_nearest_neighbour
+GSM261332,GSM404248,95,3,NC,NC,True,Internal test,GSE10334_P95,95,3,True,0.9987404193356636,GSM404248,True,0.9892024314107319,0.8189399999999996,matching_patient_site_phenotype_and_all_probe_nearest_neighbour

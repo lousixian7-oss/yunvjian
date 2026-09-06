@@ -1,0 +1,17 @@
+{
+  "source_hashes": [
+    {
+      "sample": "GSM261185",
+      "sha256": "213ae9d7e50e5c8fbdd8a350abb569ae0982cb04b6221fd92557b88a9662950d"
+    },
+    {
+      "sample": "GSM261186",
+      "sha256": "c8113eb3fc54069dcb4d3702d6cf2f1661b24815b673ad02958475016f45ed1a"
+    },
+    {
+      "sample": "GSM261293",
+      "sha256": "7d8ad9d9496bbc06d595cb046f3373f613aad47c9cbb4bfe5b58b63b9587e470"
+    }
+  ],
+  "exact_raw_matches": []
+}

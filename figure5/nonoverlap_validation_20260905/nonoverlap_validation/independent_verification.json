@@ -1,0 +1,19 @@
+{
+  "n": 66,
+  "patients": 30,
+  "AUC": 0.9861111111111112,
+  "Brier": 0.20502879605872026,
+  "maximum_probability_difference": 2.0872192862952943e-14,
+  "lopo_AUC_min": 0.982758620689655,
+  "lopo_AUC_max": 1.0,
+  "dca_better_grid_points": [
+    0.88,
+    0.89,
+    0.9,
+    0.91,
+    0.92,
+    0.93,
+    0.94,
+    0.95
+  ]
+}

@@ -44,7 +44,7 @@
   "files_before_checksum_manifest": 322,
   "total_bytes": 268450280,
   "files_over_100MiB": [],
-  "source_files_in_provenance": 310,
+  "source_files_in_provenance": 395,
   "script_files_including_export_helpers": 102,
   "pipeline_rerun": false,
   "kbet_recovery": {
@@ -57,6 +57,22 @@
       "Harmony_explicit": 0.570823546322415
     }
   },
-  "current_file_count": 362,
-  "current_total_bytes": 272163839
+  "current_file_count": 445,
+  "current_total_bytes": 272163839,
+  "release_update_20260906": {
+    "prediction_reconciliation_included": true,
+    "model_refitted": false,
+    "overlapping_GSE16134_sites": 244,
+    "retained_subset_sites": 66,
+    "retained_subset_participants": 30,
+    "retained_PD_NC": [
+      60,
+      6
+    ],
+    "subset_evaluation": "post hoc same-source participant-disjoint sensitivity evaluation",
+    "AUC": 0.986111111111111,
+    "Brier": 0.205028796,
+    "full_pipeline_rerun": false,
+    "earlier_release_fields": "Historical checks above retained; current counts below reflect this update."
+  }
 }

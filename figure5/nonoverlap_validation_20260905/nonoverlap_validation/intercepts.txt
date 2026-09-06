@@ -1,0 +1,2 @@
+Locked raw intercept: -28.1615557900581 
+Equivalent standardized intercept: 0.36973118175904
